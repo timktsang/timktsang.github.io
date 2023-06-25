@@ -11,19 +11,21 @@ author_profile: true
 
 **2023**
 
-1.	Tsang TK#, Huang X, Wang C, Chen S, Yang B, Cauchemez S, Cowling BJ. The effect of variation of individual infectiousness on SARS-CoV-2 transmission in households. eLife. 2023 Mar 7;12:e82611.
+Tsang TK#, Huang X, Wang C, Chen S, Yang B, Cauchemez S, Cowling BJ. The effect of variation of individual infectiousness on SARS-CoV-2 transmission in households. eLife. 2023 Mar 7;12:e82611.
 
-2.	Tsang TK#, Wang C, Tsang NNY, Fang VJ, Perera RAPM, Malik Peiris JS, Leung GM, Cowling BJ, Ip DKM. Impact of host genetic polymorphisms on response to inactivated influenza vaccine in children. NPJ Vaccines. 2023 Feb 20;8(1):21.
+Tsang TK#, Wang C, Tsang NNY, Fang VJ, Perera RAPM, Malik Peiris JS, Leung GM, Cowling BJ, Ip DKM. Impact of host genetic polymorphisms on response to inactivated influenza vaccine in children. NPJ Vaccines. 2023 Feb 20;8(1):21.
 
-3.	Tsang TK#, Huang X, Guo Y, Lau EHY, Cowling BJ, Ip DKM. Monitoring School Absenteeism for Influenza-Like Illness Surveillance: Systematic Review and Meta-analysis. JMIR Public Health Surveill. 2023 Jan 11;9:e41329.
+Tsang TK#, Huang X, Guo Y, Lau EHY, Cowling BJ, Ip DKM. Monitoring School Absenteeism for Influenza-Like Illness Surveillance: Systematic Review and Meta-analysis. JMIR Public Health Surveill. 2023 Jan 11;9:e41329.
 
-4.	Tsang TK#, Gostic KM, Chen S, Wang Y, Arevalo P, Lau EHY, Cobey S, Cowling BJ. Investigation of impact of childhood immune imprinting on birth year-specific risk of clinical infection during influenza A virus epidemics in Hong Kong. J Infect Dis. 2023 Jan 13:jiad009
+Tsang TK#, Gostic KM, Chen S, Wang Y, Arevalo P, Lau EHY, Cobey S, Cowling BJ. Investigation of impact of childhood immune imprinting on birth year-specific risk of clinical infection during influenza A virus epidemics in Hong Kong. J Infect Dis. 2023 Jan 13:jiad009
 
-5.	Xiong W, Peng L, Tsang TK#, Cowling BJ. Epidemiology of SARS-CoV-2 Omicron BA.5 Infections, Macau, June-July 2022. Emerg Infect Dis. 2023 
+Xiong W, Peng L, Tsang TK#, Cowling BJ. Epidemiology of SARS-CoV-2 Omicron BA.5 Infections, Macau, June-July 2022. Emerg Infect Dis. 2023 
 
-6.	Ho F, Parag KV, Adam DC, Lau EHY, Cowling BJ, Tsang TK#. Accounting for the Potential of Overdispersion in Estimation of the Time-varying Reproduction Number. Epidemiology. 2023 Mar 1;34(2):201-205
+Ho F, Parag KV, Adam DC, Lau EHY, Cowling BJ, Tsang TK#. Accounting for the Potential of Overdispersion in Estimation of the Time-varying Reproduction Number. Epidemiology. 2023 Mar 1;34(2):201-205
 
-7.	Xie R, Edwards KM, Adam DC, Leung KSM, Tsang TK, Gurung S, Xiong W, Wei X, Ng DYM, Liu GYZ, Krishnan P, Chang LDJ, Cheng SMS, Gu H, Siu GKH, Wu JT, Leung GM, Peiris M, Cowling BJ, Poon LLM, Dhanasekaran V. Resurgence of Omicron BA.2 in SARS-CoV-2 infection-naive Hong Kong. Nat Commun. 2023 Apr 27;14(1):2422 
+Xie R, Edwards KM, Adam DC, Leung KSM, Tsang TK, Gurung S, Xiong W, Wei X, Ng DYM, Liu GYZ, Krishnan P, Chang LDJ, Cheng SMS, Gu H, Siu GKH, Wu JT, Leung GM, Peiris M, Cowling BJ, Poon LLM, Dhanasekaran V. Resurgence of Omicron BA.2 in SARS-CoV-2 infection-naive Hong Kong. Nat Commun. 2023 Apr 27;14(1):2422 
+
+**2022**
 
 8.	Tsang TK, Perera RAPM, Fang VJ, Wong JY, Shiu EY, So HC, Ip DKM, Malik Peiris JS, Leung GM, Cowling BJ, Cauchemez S. Reconstructing antibody dynamics to estimate the risk of influenza virus infection. Nat Commun. 2022 Mar 23;13(1):1557.
 
