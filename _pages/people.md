@@ -26,4 +26,5 @@ Alumni
 ======
 * Sijie Chen (Research Assistant, 10/2010 to 08/2022; Current position: Master student in University of Waterloo)
 * Yifan Wang (Research Assistant, 02/2022 to 10/2022; Current position: PhD student in University of Melbourne)
+* Jiayi Zhou (Part-time Research Assistant, 06/2022 to 08/2021; Current position: PhD student in University of Hong Kong)
 * Zirong Liu (Part-time Research Assistant, 11/2022 to 04/2023; Current position: Master student in University of Hong Kong)  
