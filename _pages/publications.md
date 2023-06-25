@@ -45,6 +45,10 @@ Cheung JTL, **Tsang TK**, Yen HL, Perera RAPM, Mok CKP, Lin YP, Cowling BJ, Peir
 
 Yang B, Huang X, Gao H, Leung NH, **Tsang TK**, Cowling BJ. Immunogenicity, efficacy, and safety of SARS-CoV-2 vaccine dose fractionation: a systematic review and meta-analysis. BMC Med. 2022 Oct 25;20(1):409.
 
+Chen D, Lau YC, Xu XK, Wang L, Du Z, **Tsang TK**, Wu P, Lau EHY, Wallinga J, Cowling BJ, Ali ST. Inferring time-varying generation time, serial interval, and incubation period distributions for COVID-19. Nat Commun. 2022 Dec 13;13(1):7727.
+
+Du Z, Wang L, Shan S, Lam D, **Tsang TK**, Xiao J, Gao H, Yang B, Ali ST, Pei S, Fung IC, Lau EHY, Liao Q, Wu P, Meyers LA, Leung GM, Cowling BJ. Pandemic fatigue impedes mitigation of COVID-19 in Hong Kong. Proc Natl Acad Sci U S A. 2022 Nov 29;119(48):e2213313119.
+
 Ali ST, Lau YC, Shan S, Ryu S, Du Z, Wang L, Xu XK, Chen D, Xiong J, Tae J, **Tsang TK**, Wu P, Lau EHY, Cowling BJ. Prediction of upcoming global infection burden of influenza seasons after relaxation of public health and social measures during the COVID-19 pandemic: a modelling study. Lancet Glob Health. 2022 Nov;10(11):e1612-e1622.
 
 Lin Y, Yang B, Cobey S, Lau EHY, Adam DC, Wong JY, Bond HS, Cheung JK, Ho F, Gao H, Ali ST, Leung NHL, **Tsang TK**, Wu P, Leung GM, Cowling BJ. Incorporating temporal distribution of population-level viral load enables real-time estimation of COVID-19 transmission Nat Commun. 2022 Mar 3;13(1):1155. 
