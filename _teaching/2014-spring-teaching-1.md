@@ -10,14 +10,14 @@ location: "Hong Kong"
 
 This course will provide a basic, yet thorough introduction to probability theory and mathematical statistics that underlie many of the commonly used techniques in public health research. The frequentist and Bayesian approaches to parameter estimation, interval estimation and hypothesis testing will be compared and contrasted. All theoretical material will be motivated by problems from epidemiology and public health.
 
-COURSE AIMS
+Course Aims
 ======
 1.	Explain the frequentist and Bayesian approaches to statistical inference.
 2.	Conduct appropriate descriptive and inferential analyses of quantitative data using the statistical software package R.
 3.	Apply linear and additive models and correctly explain and interpret their methods and results.
 4.	Apply data resampling techniques to estimate the uncertainty in parameter estimates.
 
-COURSE CONTENT
+Course Content
 ======
 •	Frequentist inference, interval estimation and hypothesis testing 
 •	Bootstrap method 
@@ -29,7 +29,7 @@ COURSE CONTENT
 •	LASSO regression
 •	Bayesian inference
 
-COURSE LEARNING OUTCOMES
+Course Learning Outcomes
 ======
 1.	Conduct more advanced inferential analyses of biomedical data using the statistical software package R.
 2.	Explain the frequentist and Bayesian approaches to statistical inference.
@@ -37,13 +37,13 @@ COURSE LEARNING OUTCOMES
 4.	Apply data resampling techniques to estimate the uncertainty in parameter estimates.
 5.	Present and interpret the results of statistical analysis for correlated data, resampling methods and other methods.
 
-COURSE TEACHING AND LEARNING ACTIVITIES
+Course Teaching and Learning Activities
 ======
 There are 2.5 contact hours weekly (lecture and practicals) and 3 sessions of 3-hour tutorials 
 
 This course is taught as a series of interactive lectures which provide an extension of the materials covered in the Introduction to biostatistics (CMED6100) and Advanced Statistical Methods I (CMED6020) courses. The practical will provide an opportunity for the students to apply the knowledge covered.
 
-COURSE TEACHING AND LEARNING ACTIVITIES
+Course Teaching and Learning Activities
 ======
 1.	 Lectures with in-class practicals
 2.	 Tutorials
