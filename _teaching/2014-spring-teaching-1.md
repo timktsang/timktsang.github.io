@@ -4,13 +4,11 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "School of Public Health, University of Hong Kong"
-date: "Since 2021"
+date: 2021-01-01
 location: "Hong Kong"
 ---
 
-I have been the course coordinator since 2021.
-
-This course will provide a basic, yet thorough introduction to probability theory and mathematical statistics that underlie many of the commonly used techniques in public health research. The frequentist and Bayesian approaches to parameter estimation, interval estimation and hypothesis testing will be compared and contrasted. All theoretical material will be motivated by problems from epidemiology and public health.
+I have been the course coordinator since 2021. This course will provide a basic, yet thorough introduction to probability theory and mathematical statistics that underlie many of the commonly used techniques in public health research. The frequentist and Bayesian approaches to parameter estimation, interval estimation and hypothesis testing will be compared and contrasted. All theoretical material will be motivated by problems from epidemiology and public health.
 
 Course Aims
 ======
