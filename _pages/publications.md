@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
----
 
+{% include base_path %}
 
 (*joint first author, #corresponding author)
 1.	Tsang TK#, Huang X, Wang C, Chen S, Yang B, Cauchemez S, Cowling BJ. The effect of variation of individual infectiousness on SARS-CoV-2 transmission in households. eLife. 2023 Mar 7;12:e82611.
