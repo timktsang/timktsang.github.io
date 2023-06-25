@@ -1,10 +1,4 @@
----
-layout: archive
-title: "People"
-author_profile: true
----
 
-{% include base_path %}
 
 Current
 ======
