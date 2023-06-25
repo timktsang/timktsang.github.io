@@ -19,7 +19,7 @@ Current
 * Faith Ho (PhD co-supervisor, 09/2019 to present)
 * Xiaotong Huang (Research Assistant, 09/2021 to present)
 * Hang Qi (Research Assistant, 10/2022 to present)
-* Richael Du (Research Assistant, 05/2023 to present)
+* Richael Du (Research Assistant, 06/2023 to present)
 * Yishen Liu (Part-time Research Assistant, 04/2023 to present)
   
 Alumni
