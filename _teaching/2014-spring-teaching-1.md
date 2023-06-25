@@ -4,7 +4,6 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "School of Public Health, University of Hong Kong"
-date: " "
 location: "Hong Kong"
 ---
 
