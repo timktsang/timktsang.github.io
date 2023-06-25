@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 (*joint first author, #corresponding author)
+
+**2023**
+
 1.	Tsang TK#, Huang X, Wang C, Chen S, Yang B, Cauchemez S, Cowling BJ. The effect of variation of individual infectiousness on SARS-CoV-2 transmission in households. eLife. 2023 Mar 7;12:e82611.
 
 2.	Tsang TK#, Wang C, Tsang NNY, Fang VJ, Perera RAPM, Malik Peiris JS, Leung GM, Cowling BJ, Ip DKM. Impact of host genetic polymorphisms on response to inactivated influenza vaccine in children. NPJ Vaccines. 2023 Feb 20;8(1):21.
