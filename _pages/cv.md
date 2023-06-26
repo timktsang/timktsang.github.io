@@ -18,11 +18,11 @@ Education
 Work experience
 ======
 * 2016-2019: Postdoctoral Associate
-  * University of Florida
+  * Department of Biostatistics, University of Florida
 
 * 2019-2021: Research Assistant Professor
-  * The University of Hong Kong
+  * School of Public Health, The University of Hong Kong
 
 * 2021-: Assistant Professor
-  * The University of Hong Kong
+  * School of Public Health, The University of Hong Kong
   
