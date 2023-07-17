@@ -25,6 +25,8 @@ Ho F, Parag KV, Adam DC, Lau EHY, Cowling BJ, **Tsang TK#**. Accounting for the 
 
 Xie R, Edwards KM, Adam DC, Leung KSM, **Tsang TK**, Gurung S, Xiong W, Wei X, Ng DYM, Liu GYZ, Krishnan P, Chang LDJ, Cheng SMS, Gu H, Siu GKH, Wu JT, Leung GM, Peiris M, Cowling BJ, Poon LLM, Dhanasekaran V. Resurgence of Omicron BA.2 in SARS-CoV-2 infection-naive Hong Kong. Nat Commun. 2023 Apr 27;14(1):2422 
 
+Du Z, Zhang X, Wang L, Yao S, Bai Y, Tan Q, Xu X, Pei S, Xiao J, **Tsang TK**, Liao Q, Lau EHY, Wu P, Gao C, Cowling BJ. Characterizing Human Collective Behaviors During COVID-19 - Hong Kong SAR, China, 2020. China CDC Wkly. 2023 Jan 27;5(4):71-75
+
 **2022**
 
 **Tsang TK**, Perera RAPM, Fang VJ, Wong JY, Shiu EY, So HC, Ip DKM, Malik Peiris JS, Leung GM, Cowling BJ, Cauchemez S. Reconstructing antibody dynamics to estimate the risk of influenza virus infection. Nat Commun. 2022 Mar 23;13(1):1557.
