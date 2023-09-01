@@ -11,6 +11,10 @@ author_profile: true
 
 **2023**
 
+**Tsang TK#**, Wang C, Fang VJ, Perera RAPM, So HC, Ip DKM, Leung GM, Peiris JSM, Cauchemez S, Cowling BJ. Reconstructing household transmission dynamics to estimate the infectiousness of asymptomatic influenza virus infections. Proc Natl Acad Sci U S A. 2023 Aug 15;120(33):e2304750120.
+
+**Tsang TK#**, Huang X, Fong MW, Wang C, Lau EHY, Wu P, Cowling BJ. Effects of School-Based Preventive Measures on COVID-19 Incidence, Hong Kong, 2022. Emerg Infect Dis. 2023 Sep;29(9):1850-1854. 
+
 **Tsang TK#**, Huang X, Wang C, Chen S, Yang B, Cauchemez S, Cowling BJ. The effect of variation of individual infectiousness on SARS-CoV-2 transmission in households. eLife. 2023 Mar 7;12:e82611.
 
 **Tsang TK#**, Wang C, Tsang NNY, Fang VJ, Perera RAPM, Malik Peiris JS, Leung GM, Cowling BJ, Ip DKM. Impact of host genetic polymorphisms on response to inactivated influenza vaccine in children. NPJ Vaccines. 2023 Feb 20;8(1):21.
@@ -18,6 +22,8 @@ author_profile: true
 **Tsang TK#**, Huang X, Guo Y, Lau EHY, Cowling BJ, Ip DKM. Monitoring School Absenteeism for Influenza-Like Illness Surveillance: Systematic Review and Meta-analysis. JMIR Public Health Surveill. 2023 Jan 11;9:e41329.
 
 **Tsang TK#**, Gostic KM, Chen S, Wang Y, Arevalo P, Lau EHY, Cobey S, Cowling BJ. Investigation of impact of childhood immune imprinting on birth year-specific risk of clinical infection during influenza A virus epidemics in Hong Kong. J Infect Dis. 2023 Jan 13:jiad009
+
+Sullivan SG, Khvorov A, Huang X, Wang C, Ainslie KEC, Nealon J, Yang B, Cowling BJ, **Tsang TK**. The need for a clinical case definition in test-negative design studies estimating vaccine effectiveness. NPJ Vaccines. 2023 Aug 12;8(1):118.
 
 Xiong W, Peng L, **Tsang TK#**, Cowling BJ. Epidemiology of SARS-CoV-2 Omicron BA.5 Infections, Macau, June-July 2022. Emerg Infect Dis. 2023 
 
