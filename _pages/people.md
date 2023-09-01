@@ -23,9 +23,9 @@ Current
 Alumni
 ======
 * Sijie Chen (Research Assistant, 10/2021 to 08/2022; Current position: Master student in University of Waterloo)
-* Yifan Wang (Research Assistant, 02/2022 to 10/2022; Current position: PhD student in University of Melbourne)
+* Yifan Wang (Research Assistant, 02/2022 to 10/2022; Current position: PhD student in The University of Melbourne)
 * Hang Qi (Research Assistant, 10/2022 to 08/2023; Current position: PhD student in Beijing Normal University & Hong Kong Baptist University United International College)
-* Faith Ho (PhD co-supervisor, 09/2019 to 08/2023; Current position: Assistant Technical Manager in University of Hong Kong)
-* Jiayi Zhou (Part-time Research Assistant, 06/2022 to 08/2022; Current position: PhD student in University of Hong Kong)
-* Zirong Liu (Part-time Research Assistant, 11/2022 to 04/2023; Current position: Master student in University of Hong Kong)  
-* Yishen Liu (Part-time Research Assistant, 04/2023 to 08/2023; Current position: Master student in University of Hong Kong)
+* Faith Ho (PhD co-supervisor, 09/2019 to 08/2023; Current position: Assistant Technical Manager in The University of Hong Kong)
+* Jiayi Zhou (Part-time Research Assistant, 06/2022 to 08/2022; Current position: PhD student in The University of Hong Kong)
+* Zirong Liu (Part-time Research Assistant, 11/2022 to 04/2023; Current position: Master student in The University of Hong Kong)  
+* Yishen Liu (Part-time Research Assistant, 04/2023 to 08/2023; Current position: Master student in The University of Hong Kong)
