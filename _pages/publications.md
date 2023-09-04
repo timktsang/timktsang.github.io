@@ -29,6 +29,8 @@ Xiong W, Peng L, **Tsang TK#**, Cowling BJ. Epidemiology of SARS-CoV-2 Omicron B
 
 Ho F, Parag KV, Adam DC, Lau EHY, Cowling BJ, **Tsang TK#**. Accounting for the Potential of Overdispersion in Estimation of the Time-varying Reproduction Number. Epidemiology. 2023 Mar 1;34(2):201-205
 
+Lin Y, Wu P, **Tsang TK**, Wong JY, Lau EHY, Yang B, Leung GM, Cowling BJ. Viral kinetics of SARS-CoV-2 following onset of COVID-19 in symptomatic patients infected with the ancestral strain and omicron BA.2 in Hong Kong: a retrospective observational study. Lancet Microbe. 2023 Sep;4(9):e722-e731. 
+
 Xie R, Edwards KM, Adam DC, Leung KSM, **Tsang TK**, Gurung S, Xiong W, Wei X, Ng DYM, Liu GYZ, Krishnan P, Chang LDJ, Cheng SMS, Gu H, Siu GKH, Wu JT, Leung GM, Peiris M, Cowling BJ, Poon LLM, Dhanasekaran V. Resurgence of Omicron BA.2 in SARS-CoV-2 infection-naive Hong Kong. Nat Commun. 2023 Apr 27;14(1):2422 
 
 Du Z, Zhang X, Wang L, Yao S, Bai Y, Tan Q, Xu X, Pei S, Xiao J, **Tsang TK**, Liao Q, Lau EHY, Wu P, Gao C, Cowling BJ. Characterizing Human Collective Behaviors During COVID-19 - Hong Kong SAR, China, 2020. China CDC Wkly. 2023 Jan 27;5(4):71-75
