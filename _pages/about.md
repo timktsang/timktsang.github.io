@@ -12,7 +12,7 @@ I am an Assistant Professor at HKU School of Public Health. My research interest
 
 Openings
 ======
-I am recruiting MPhil/PhD students, post-doctoral fellows and research assistants. Inquiries are welcome. If you are interested in our research and in joining our group, please email me at matklab@hku.hk with your CV, and academic transcript.
+I am recruiting MPhil/PhD students, post-doctoral fellows and research assistants. Inquiries are welcome. If you are interested in our research and in joining our group, please email me at timkltsang@gmail.com with your CV, and academic transcript.
 
 
 ------
