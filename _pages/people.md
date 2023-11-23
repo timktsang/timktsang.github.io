@@ -21,7 +21,8 @@ Current
 * Yan Chen (Senior Research Assistant, 10/2023 to present)
 * Xiaotong Huang (Research Assistant, 09/2021 to present)
 * Richael Du (Research Assistant, 06/2023 to present)
-
+* Zhiqing Chen (Part-time Student Research Assistant, 09/2023 to present)
+  
 Alumni
 ======
 * Sijie Chen (Research Assistant, 10/2021 to 08/2022; Current position: Master student in University of Waterloo)
