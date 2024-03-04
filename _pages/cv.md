@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Statistics, Hong Kong University and Science of Technology, 2010
-* M.Phil in Mathematics and Statistics, Hong Kong University and Science of Technology, 2012
+* B.S. in Mathematics and Statistics, Hong Kong University of Science and Technology, 2010
+* M.Phil in Mathematics and Statistics, Hong Kong University of Science and Technology, 2012
 * Ph.D in Biostatistics and Epidemiology, The University of Hong Kong, 2016
 
 Work experience
