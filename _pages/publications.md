@@ -9,6 +9,24 @@ author_profile: true
 
 (*joint first author, #corresponding author)
 
+**2024**
+
+**Tsang TK#**, Sullivan SG, Meng Y, Lai FTT, Fan M, Huang X, Lin Y, Peng L, Zhang C, Yang B, Ainslie KEC, Cowling BJ. Evaluating the impact of extended dosing intervals on mRNA COVID-19 vaccine effectiveness in adolescents. BMC Med. 2024 Sep 12;22(1):384.
+
+**Tsang TK#**, Sullivan SG, Huang X, Wang C, Wang Y, Nealon J, Yang B, Ainslie KEC, Cowling BJ. Prior infections and effectiveness of SARS-CoV-2 vaccine in test-negative studies: A systematic review and meta-analysis. Am J Epidemiol. 2024 Jun 20:kwae142.
+
+**Tsang TK**, Du RQR, Fang VJ, Lau EHY, Chan KH, Chu DKW, Ip DKM, Peiris JSM, Leung GM, Cauchemez S, Cowling BJ. Decreased risk of non-influenza respiratory infection after influenza B virus infection in children. Epidemiol Infect. 2024 Apr 8;152:e60.
+
+Zhang C, Fang VJ, Chan KH, Leung GM, Ip DKM, Peiris JSM, Cowling BJ, **Tsang TK#**. Interplay between viral shedding, age, and symptoms on individual infectiousness of influenza cases in households. J Infect Dis. 2024 Aug 28:jiae434. 
+
+Peng L, Huang X, Wang C, Xin H, Cowling BJ, Wu P, **Tsang TK#**. Comparative epidemiology of outbreaks caused by SARS-CoV-2 Delta and Omicron variants in China. Epidemiol Infect. 2024 Mar 19;152:e43.
+
+Young BR, Ho F, Lin Y, Lau EHY, Cowling BJ, Wu P, **Tsang TK#**. Estimation of the Time-Varying Effective Reproductive Number of COVID-19 Based on Multivariate Time Series of Severe Health Outcomes. J Infect Dis. 2024 Feb 14;229(2):502-506.
+
+Peng H, Cai XQ, Zhen J, Shen JJ, Shen HS, Wu XH, Zhou YB, Ren L, Wu J, Xu A, **Tsang TK#**, Cheung BMY, Li C. The association between circulating fatty acids and stroke in hypertensive patients. Am J Med Sci. 2024 Jul;368(1):48-54
+
+Yang B, Lin Y, Xiong W, Liu C, Gao H, Ho F, Zhou J, Zhang R, Wong JY, Cheung JK, Lau EHY, **Tsang TK**, Xiao J, Wong IOL, Martín-Sánchez M, Leung GM, Cowling BJ, Wu P. Comparison of control and transmission of COVID-19 across epidemic waves in Hong Kong: an observational study. Lancet Reg Health West Pac. 2023 Nov 22;43:100969
+
 **2023**
 
 **Tsang TK#**, Wang C, Fang VJ, Perera RAPM, So HC, Ip DKM, Leung GM, Peiris JSM, Cauchemez S, Cowling BJ. Reconstructing household transmission dynamics to estimate the infectiousness of asymptomatic influenza virus infections. Proc Natl Acad Sci U S A. 2023 Aug 15;120(33):e2304750120.
@@ -23,17 +41,21 @@ author_profile: true
 
 **Tsang TK#**, Gostic KM, Chen S, Wang Y, Arevalo P, Lau EHY, Cobey S, Cowling BJ. Investigation of impact of childhood immune imprinting on birth year-specific risk of clinical infection during influenza A virus epidemics in Hong Kong. J Infect Dis. 2023 Jan 13:jiad009
 
-Sullivan SG, Khvorov A, Huang X, Wang C, Ainslie KEC, Nealon J, Yang B, Cowling BJ, **Tsang TK**. The need for a clinical case definition in test-negative design studies estimating vaccine effectiveness. NPJ Vaccines. 2023 Aug 12;8(1):118.
+Xiong W, Cowling BJ, **Tsang TK#**. Influenza Resurgence after Relaxation of Public Health and Social Measures, Hong Kong, 2023. Emerg Infect Dis. 2023 Dec;29(12):2556-2559. 
 
 Xiong W, Peng L, **Tsang TK#**, Cowling BJ. Epidemiology of SARS-CoV-2 Omicron BA.5 Infections, Macau, June-July 2022. Emerg Infect Dis. 2023 
 
 Ho F, Parag KV, Adam DC, Lau EHY, Cowling BJ, **Tsang TK#**. Accounting for the Potential of Overdispersion in Estimation of the Time-varying Reproduction Number. Epidemiology. 2023 Mar 1;34(2):201-205
+
+Sullivan SG, Khvorov A, Huang X, Wang C, Ainslie KEC, Nealon J, Yang B, Cowling BJ, **Tsang TK**. The need for a clinical case definition in test-negative design studies estimating vaccine effectiveness. NPJ Vaccines. 2023 Aug 12;8(1):118.
 
 Lin Y, Wu P, **Tsang TK**, Wong JY, Lau EHY, Yang B, Leung GM, Cowling BJ. Viral kinetics of SARS-CoV-2 following onset of COVID-19 in symptomatic patients infected with the ancestral strain and omicron BA.2 in Hong Kong: a retrospective observational study. Lancet Microbe. 2023 Sep;4(9):e722-e731. 
 
 Xie R, Edwards KM, Adam DC, Leung KSM, **Tsang TK**, Gurung S, Xiong W, Wei X, Ng DYM, Liu GYZ, Krishnan P, Chang LDJ, Cheng SMS, Gu H, Siu GKH, Wu JT, Leung GM, Peiris M, Cowling BJ, Poon LLM, Dhanasekaran V. Resurgence of Omicron BA.2 in SARS-CoV-2 infection-naive Hong Kong. Nat Commun. 2023 Apr 27;14(1):2422 
 
 Du Z, Zhang X, Wang L, Yao S, Bai Y, Tan Q, Xu X, Pei S, Xiao J, **Tsang TK**, Liao Q, Lau EHY, Wu P, Gao C, Cowling BJ. Characterizing Human Collective Behaviors During COVID-19 - Hong Kong SAR, China, 2020. China CDC Wkly. 2023 Jan 27;5(4):71-75
+
+Lun P, Ning K, Wang Y, Ma TSW, Flores FP, Xiao X, Subramaniam M, Abdin E, Tian L, **Tsang TK**, Leung K, Wu JT, Cowling BJ, Leung GM, Ni MY. COVID-19 Vaccination Willingness and Reasons for Vaccine Refusal. JAMA Netw Open. 2023 Oct 2;6(10):e2337909.
 
 **2022**
 
