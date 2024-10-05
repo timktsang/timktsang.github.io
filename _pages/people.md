@@ -15,12 +15,17 @@ Current
 * Can Wang (PhD supervisor, 09/2022 to present; Research Assistant, 12/2020 to 08/2022)
 * Liping Peng (PhD supervisor, 02/2023 to present; Research Assistant, 04/2022 to 01/2023)
 * Yu Meng (PhD supervisor, 07/2023 to present; Research Assistant, 02/2023 to 06/2023)
-* Yanfang Xu (PhD supervisor, 09/2023 to present
+* Yanfang Xu (PhD supervisor, 09/2023 to present)
 * Chengyao Zhang (HKPFS awardee)(PhD supervisor, 11/2023 to present)
 * Benjamin Young (PhD co-supervisor, 09/2021 to present)
 * Xiaotong Huang (Research Assistant, 09/2021 to present)
 * Qichang Wan (Research Assistant, 07/2024 to present)
-  
+
+Incoming
+======
+* Haoling Chen (HKUPS awardee; Outstanding performance in HKU Summer Research Programme 2024)(PhD supervisor, 01/2025 - )
+* Yani Wu (HKUPS awardee; Outstanding performance in HKU Summer Research Programme 2024)(PhD supervisor, 09/2025 - )
+
 Alumni
 ======
 * Richael Du (Research Assistant, 06/2023 to 07/2024; Current position: PhD student in North Carolina State University)
