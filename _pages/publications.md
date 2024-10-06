@@ -29,7 +29,7 @@ Peng H, Cai XQ, Zhen J, Shen JJ, Shen HS, Wu XH, Zhou YB, Ren L, Wu J, Xu A, **T
 
 Yang B, Lin Y, Xiong W, Liu C, Gao H, Ho F, Zhou J, Zhang R, Wong JY, Cheung JK, Lau EHY, **Tsang TK**, Xiao J, Wong IOL, Martín-Sánchez M, Leung GM, Cowling BJ, Wu P. Comparison of control and transmission of COVID-19 across epidemic waves in Hong Kong: an observational study. Lancet Reg Health West Pac. 2023 Nov 22;43:100969
 
-Jia JZ, Cohen CA, Gu H, McLean MR, Varadarajan R, Bhandari N, Peiris M, Leung GM, Poon LLM, **Tsang TK**, Chung AW, Cowling BJ, Leung NHL, Valkenburg SA. Influenza antibody breadth and effector functions are immune correlates from acquisition of pandemic infection of children. Nat Commun. 2024 Apr 13;15(1):3210. doi: 10.1038/s41467-024-47590-0.
+Jia JZ, Cohen CA, Gu H, McLean MR, Varadarajan R, Bhandari N, Peiris M, Leung GM, Poon LLM, **Tsang TK**, Chung AW, Cowling BJ, Leung NHL, Valkenburg SA. Influenza antibody breadth and effector functions are immune correlates from acquisition of pandemic infection of children. Nat Commun. 2024 Apr 13;15(1):3210. 
 
 **2023**
 
