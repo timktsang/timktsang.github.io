@@ -25,7 +25,7 @@ Peng L, Huang X, Wang C, Xin H, Cowling BJ, Wu P, **Tsang TK#**. Comparative epi
 
 Young BR, Ho F, Lin Y, Lau EHY, Cowling BJ, Wu P, **Tsang TK#**. Estimation of the Time-Varying Effective Reproductive Number of COVID-19 Based on Multivariate Time Series of Severe Health Outcomes. J Infect Dis. 2024 Feb 14;229(2):502-506.
 
-Peng H, Cai XQ, Zhen J, Shen JJ, Shen HS, Wu XH, Zhou YB, Ren L, Wu J, Xu A, **Tsang TK#**, Cheung BMY, Li C. The association between circulating fatty acids and stroke in hypertensive patients. Am J Med Sci. 2024 Jul;368(1):48-54
+Peng H, Cai XQ, Zhen J, Shen JJ, Shen HS, Wu XH, Zhou YB, Ren L, Wu J, Xu A, **Tsang TK#**, Cheung BMY#, Li C#. The association between circulating fatty acids and stroke in hypertensive patients. Am J Med Sci. 2024 Jul;368(1):48-54
 
 Yang B, Lin Y, Xiong W, Liu C, Gao H, Ho F, Zhou J, Zhang R, Wong JY, Cheung JK, Lau EHY, **Tsang TK**, Xiao J, Wong IOL, Martín-Sánchez M, Leung GM, Cowling BJ, Wu P. Comparison of control and transmission of COVID-19 across epidemic waves in Hong Kong: an observational study. Lancet Reg Health West Pac. 2023 Nov 22;43:100969
 
