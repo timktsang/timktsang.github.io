@@ -19,7 +19,8 @@ Current
 * Chengyao Zhang (HKPFS awardee)(PhD supervisor, 11/2023 to present)
 * Benjamin Young (PhD co-supervisor, 09/2021 to present)
 * Xiaotong Huang (Research Assistant, 09/2021 to present)
-* Qichang Wan (Research Assistant, 07/2024 to present)
+* Zhimin Liu (Research Assistant, 11/2024 to present)
+* Qichang Wan (Part-time Research Assistant, 07/2024 to present)
 
 Incoming
 ======
