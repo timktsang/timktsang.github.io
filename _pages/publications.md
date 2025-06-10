@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-(*joint first author, #corresponding author, <ins> </ins> team members)
+(*joint first author, #corresponding author, _team members)
 
 **2024**
 
 **Tsang TK#**, <ins>Du Q</ins>, Cowling BJ, Viboud C. An adaptive weight ensemble approach to forecast influenza activity in an irregular seasonality context. Nat Commun. 2024 Oct 4;15(1):8625.
 
-**Tsang TK#**, Sullivan SG, Meng Y, Lai FTT, Fan M, Huang X, Lin Y, Peng L, Zhang C, Yang B, Ainslie KEC, Cowling BJ. Evaluating the impact of extended dosing intervals on mRNA COVID-19 vaccine effectiveness in adolescents. BMC Med. 2024 Sep 12;22(1):384.
+**Tsang TK#**, Sullivan SG, <ins>Meng Y</ins>, Lai FTT, Fan M, <ins>Huang X</ins>, Lin Y, Peng L, Zhang C, Yang B, Ainslie KEC, Cowling BJ. Evaluating the impact of extended dosing intervals on mRNA COVID-19 vaccine effectiveness in adolescents. BMC Med. 2024 Sep 12;22(1):384.
 
 **Tsang TK#**, Sullivan SG, Huang X, Wang C, Wang Y, Nealon J, Yang B, Ainslie KEC, Cowling BJ. Prior infections and effectiveness of SARS-CoV-2 vaccine in test-negative studies: A systematic review and meta-analysis. Am J Epidemiol. 2024 Jun 20:kwae142.
 
