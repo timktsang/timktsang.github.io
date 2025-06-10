@@ -55,13 +55,13 @@ Jia JZ, Cohen CA, Gu H, McLean MR, Varadarajan R, Bhandari N, Peiris M, Leung GM
 
 **Tsang TK#**, <ins>Huang X</ins>, Fong MW, <ins>Wang C</ins>, Lau EHY, Wu P, Cowling BJ. Effects of School-Based Preventive Measures on COVID-19 Incidence, Hong Kong, 2022. Emerg Infect Dis. 2023 Sep;29(9):1850-1854. 
 
-**Tsang TK#**, <ins>Huang X</ins>, <ins>Wang C</ins>, Chen S, Yang B, Cauchemez S, Cowling BJ. The effect of variation of individual infectiousness on SARS-CoV-2 transmission in households. eLife. 2023 Mar 7;12:e82611.
+**Tsang TK#**, <ins>Huang X</ins>, <ins>Wang C</ins>, <ins>Chen S</ins>, Yang B, Cauchemez S, Cowling BJ. The effect of variation of individual infectiousness on SARS-CoV-2 transmission in households. eLife. 2023 Mar 7;12:e82611.
 
 **Tsang TK#**, <ins>Wang C</ins>, Tsang NNY, Fang VJ, Perera RAPM, Malik Peiris JS, Leung GM, Cowling BJ, Ip DKM. Impact of host genetic polymorphisms on response to inactivated influenza vaccine in children. NPJ Vaccines. 2023 Feb 20;8(1):21.
 
 **Tsang TK#**, <ins>Huang X</ins>, Guo Y, Lau EHY, Cowling BJ, Ip DKM. Monitoring School Absenteeism for Influenza-Like Illness Surveillance: Systematic Review and Meta-analysis. JMIR Public Health Surveill. 2023 Jan 11;9:e41329.
 
-**Tsang TK#**, Gostic KM, Chen S, <ins>Wang Y</ins>, Arevalo P, Lau EHY, Cobey S, Cowling BJ. Investigation of impact of childhood immune imprinting on birth year-specific risk of clinical infection during influenza A virus epidemics in Hong Kong. J Infect Dis. 2023 Jan 13:jiad009
+**Tsang TK#**, Gostic KM, <ins>Chen S</ins>, <ins>Wang Y</ins>, Arevalo P, Lau EHY, Cobey S, Cowling BJ. Investigation of impact of childhood immune imprinting on birth year-specific risk of clinical infection during influenza A virus epidemics in Hong Kong. J Infect Dis. 2023 Jan 13:jiad009
 
 <ins>Xiong W</ins>, Cowling BJ, **Tsang TK#**. Influenza Resurgence after Relaxation of Public Health and Social Measures, Hong Kong, 2023. Emerg Infect Dis. 2023 Dec;29(12):2556-2559. 
 
@@ -77,7 +77,7 @@ Xie R, Edwards KM, Adam DC, Leung KSM, **Tsang TK**, Gurung S, <ins>Xiong W</ins
 
 Du Z, Zhang X, Wang L, Yao S, Bai Y, Tan Q, Xu X, Pei S, Xiao J, **Tsang TK**, Liao Q, Lau EHY, Wu P, Gao C, Cowling BJ. Characterizing Human Collective Behaviors During COVID-19 - Hong Kong SAR, China, 2020. China CDC Wkly. 2023 Jan 27;5(4):71-75
 
-Lun P, Ning K, <ins>Wang Y</ins>, Ma TSW, Flores FP, Xiao X, Subramaniam M, Abdin E, Tian L, **Tsang TK**, Leung K, Wu JT, Cowling BJ, Leung GM, Ni MY. COVID-19 Vaccination Willingness and Reasons for Vaccine Refusal. JAMA Netw Open. 2023 Oct 2;6(10):e2337909.
+Lun P, Ning K, Wang Y, Ma TSW, Flores FP, Xiao X, Subramaniam M, Abdin E, Tian L, **Tsang TK**, Leung K, Wu JT, Cowling BJ, Leung GM, Ni MY. COVID-19 Vaccination Willingness and Reasons for Vaccine Refusal. JAMA Netw Open. 2023 Oct 2;6(10):e2337909.
 
 **2022**
 
