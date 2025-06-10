@@ -18,7 +18,6 @@ Current
 * Yanfang Xu (PhD supervisor, 09/2023 to present)
 * Chengyao Zhang (HKPFS awardee)(PhD supervisor, 11/2023 to present)
 * Haoling Chen(PhD supervisor, 01/2025 - present; HKUPS awardee; Outstanding performance in HKU Summer Research Programme 2024)
-* Benjamin Young (PhD co-supervisor, 09/2021 to present)
 * Xiaotong Huang (Research Assistant, 09/2021 to present)
 * Zhimin Liu (Research Assistant, 11/2024 to present)
 * Qichang Wan (Part-time Research Assistant, 07/2024 to present)
@@ -29,6 +28,7 @@ Incoming
 
 Alumni
 ======
+* Benjamin Young (PhD co-supervisor, 09/2021 to 05/2025; Current position: Postdoc in University of Oxford)
 * Faith Ho (PhD co-supervisor, 09/2019 to 08/2023; Current position: Assistant Technical Manager in The University of Hong Kong)
 * Richael Du (Research Assistant, 06/2023 to 07/2024; Current position: PhD student in North Carolina State University)
 * Hang Qi (Research Assistant, 10/2022 to 08/2023; Current position: PhD student in Beijing Normal University & Hong Kong Baptist University United International College)
