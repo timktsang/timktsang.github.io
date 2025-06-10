@@ -9,6 +9,24 @@ author_profile: true
 
 (*joint first author, #corresponding author, __Students/RAs)
 
+**2025**
+
+**Tsang TK#**, Rojas DP, Xu F, <ins>Xu Y</ins>, Zhu X, Halloran ME, Longini IM, Yang Y. Estimating transmissibility of Zika virus in Colombia in the presence of surveillance bias. Nat Commun. 2025 May 8;16(1):4299. 
+
+<ins>Peng L</ins>, Ainslie KEC, <ins>Huang X</ins>, Cowling BJ, Wu P, **Tsang TK#**. Evaluating the association between COVID-19 transmission and mobility in omicron outbreaks in China. Commun Med (Lond). 2025 May 20;5(1):188. 
+
+<ins>Wang C</ins>, Yuan HY, Lau EHY, Cowling BJ, Ip DKM, **Tsang TK#**. Impact of Population Immunity and Public Health Measures on the Transmission of Omicron Subvariants BA.2 and BA.5 in Hong Kong. J Infect Dis. 2025 May 29:jiaf287.
+
+<ins>Chen H</ins>, <ins>Huang X</ins>, <ins>Wang C</ins>, Cowling BJ, **Tsang TK#**. Estimating the waning effectiveness of COVID-19 vaccines from population-level surveillance data in Hong Kong. J Infect Dis. 2025 Apr 18:jiaf207. 
+
+Dong S, Sun Y, Ni S, Tian Y, Feng Z, Jia L, Wang X, Zhang D, Wang Q, **Tsang TK#**, Yang P. Interplay Between Viral Shedding, Age, and Symptoms in Individual Infectivity of COVID-19 Breakthrough Infections in Households. Vaccines (Basel). 2025 Mar 19;13(3):329.
+
+Yang B, Gostic KM, Adam DC, Zhang R, Einav T, <ins>Peng L</ins>, Wong SS, **Tsang TK**, Cummings DAT, Sullivan SG, Cobey S, Cowling BJ. Breadth of influenza A antibody cross-reactivity varies by virus isolation interval and subtype. Nat Microbiol (2025). https://doi.org/10.1038/s41564-025-02033-4
+
+Liu C, **Tsang TK**, Sullivan SG, Cowling BJ, Yang B. Comparative duration of neutralizing responses and protections of COVID-19 vaccination and correlates of protection. Nat Commun. 2025 May 22;16(1):4748.
+
+<ins>Meng Y</ins>, Lin Y, <ins>Xiong W</ins>, Lau EHY, Ho F, Wong JY, Wu P, **Tsang TK**, Cowling BJ, Yang B. Effective Real-time Transmission Estimations Incorporating Population Viral Load Distributions Amid SARS-CoV-2 Variants and Preexisting Immunity. J Infect Dis. 2025 Mar 17;231(3):684-691. 
+
 **2024**
 
 **Tsang TK#**, <ins>Du Q</ins>, Cowling BJ, Viboud C. An adaptive weight ensemble approach to forecast influenza activity in an irregular seasonality context. Nat Commun. 2024 Oct 4;15(1):8625.
