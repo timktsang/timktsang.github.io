@@ -41,11 +41,11 @@ Liu C, **Tsang TK**, Sullivan SG, Cowling BJ, Yang B. Comparative duration of ne
 
 <ins>Peng L</ins>, <ins>Huang X</ins>, <ins>Wang C</ins>, Xin H, Cowling BJ, Wu P, **Tsang TK#**. Comparative epidemiology of outbreaks caused by SARS-CoV-2 Delta and Omicron variants in China. Epidemiol Infect. 2024 Mar 19;152:e43.
 
-<ins>Young BR</ins>, <ins>Ho F</ins>, Lin Y, Lau EHY, Cowling BJ, Wu P, **Tsang TK#**. Estimation of the Time-Varying Effective Reproductive Number of COVID-19 Based on Multivariate Time Series of Severe Health Outcomes. J Infect Dis. 2024 Feb 14;229(2):502-506.
+<ins>Young BR</ins>, Ho F, Lin Y, Lau EHY, Cowling BJ, Wu P, **Tsang TK#**. Estimation of the Time-Varying Effective Reproductive Number of COVID-19 Based on Multivariate Time Series of Severe Health Outcomes. J Infect Dis. 2024 Feb 14;229(2):502-506.
 
 Peng H, Cai XQ, Zhen J, Shen JJ, Shen HS, Wu XH, Zhou YB, Ren L, Wu J, Xu A, **Tsang TK#**, Cheung BMY#, Li C#. The association between circulating fatty acids and stroke in hypertensive patients. Am J Med Sci. 2024 Jul;368(1):48-54
 
-Yang B, Lin Y, <ins>Xiong W</ins>, Liu C, Gao H, <ins>Ho F</ins>, Zhou J, Zhang R, Wong JY, Cheung JK, Lau EHY, **Tsang TK**, Xiao J, Wong IOL, Martín-Sánchez M, Leung GM, Cowling BJ, Wu P. Comparison of control and transmission of COVID-19 across epidemic waves in Hong Kong: an observational study. Lancet Reg Health West Pac. 2023 Nov 22;43:100969
+Yang B, Lin Y, <ins>Xiong W</ins>, Liu C, Gao H, Ho F, Zhou J, Zhang R, Wong JY, Cheung JK, Lau EHY, **Tsang TK**, Xiao J, Wong IOL, Martín-Sánchez M, Leung GM, Cowling BJ, Wu P. Comparison of control and transmission of COVID-19 across epidemic waves in Hong Kong: an observational study. Lancet Reg Health West Pac. 2023 Nov 22;43:100969
 
 Jia JZ, Cohen CA, Gu H, McLean MR, Varadarajan R, Bhandari N, Peiris M, Leung GM, Poon LLM, **Tsang TK**, Chung AW, Cowling BJ, Leung NHL, Valkenburg SA. Influenza antibody breadth and effector functions are immune correlates from acquisition of pandemic infection of children. Nat Commun. 2024 Apr 13;15(1):3210. 
 
