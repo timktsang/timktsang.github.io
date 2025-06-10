@@ -11,7 +11,7 @@ author_profile: true
 
 **2024**
 
-**Tsang TK#**, Du Q, Cowling BJ, Viboud C. An adaptive weight ensemble approach to forecast influenza activity in an irregular seasonality context. Nat Commun. 2024 Oct 4;15(1):8625.
+**Tsang TK#**, <ins>Du Q</ins>, Cowling BJ, Viboud C. An adaptive weight ensemble approach to forecast influenza activity in an irregular seasonality context. Nat Commun. 2024 Oct 4;15(1):8625.
 
 **Tsang TK#**, Sullivan SG, Meng Y, Lai FTT, Fan M, Huang X, Lin Y, Peng L, Zhang C, Yang B, Ainslie KEC, Cowling BJ. Evaluating the impact of extended dosing intervals on mRNA COVID-19 vaccine effectiveness in adolescents. BMC Med. 2024 Sep 12;22(1):384.
 
