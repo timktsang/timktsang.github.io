@@ -7,59 +7,59 @@ author_profile: true
 
 {% include base_path %}
 
-(*joint first author, #corresponding author, _team members)
+(*joint first author, #corresponding author, __Students/RAs)
 
 **2024**
 
 **Tsang TK#**, <ins>Du Q</ins>, Cowling BJ, Viboud C. An adaptive weight ensemble approach to forecast influenza activity in an irregular seasonality context. Nat Commun. 2024 Oct 4;15(1):8625.
 
-**Tsang TK#**, Sullivan SG, <ins>Meng Y</ins>, Lai FTT, Fan M, <ins>Huang X</ins>, Lin Y, Peng L, Zhang C, Yang B, Ainslie KEC, Cowling BJ. Evaluating the impact of extended dosing intervals on mRNA COVID-19 vaccine effectiveness in adolescents. BMC Med. 2024 Sep 12;22(1):384.
+**Tsang TK#**, Sullivan SG, <ins>Meng Y</ins>, Lai FTT, Fan M, <ins>Huang X</ins>, Lin Y, <ins>Peng L</ins>, <ins>Zhang C</ins>, Yang B, Ainslie KEC, Cowling BJ. Evaluating the impact of extended dosing intervals on mRNA COVID-19 vaccine effectiveness in adolescents. BMC Med. 2024 Sep 12;22(1):384.
 
-**Tsang TK#**, Sullivan SG, Huang X, Wang C, Wang Y, Nealon J, Yang B, Ainslie KEC, Cowling BJ. Prior infections and effectiveness of SARS-CoV-2 vaccine in test-negative studies: A systematic review and meta-analysis. Am J Epidemiol. 2024 Jun 20:kwae142.
+**Tsang TK#**, Sullivan SG, <ins>Huang X</ins>, <ins>Wang C</ins>, <ins>Wang Y</ins>, Nealon J, Yang B, Ainslie KEC, Cowling BJ. Prior infections and effectiveness of SARS-CoV-2 vaccine in test-negative studies: A systematic review and meta-analysis. Am J Epidemiol. 2024 Jun 20:kwae142.
 
-**Tsang TK**, Du RQR, Fang VJ, Lau EHY, Chan KH, Chu DKW, Ip DKM, Peiris JSM, Leung GM, Cauchemez S, Cowling BJ. Decreased risk of non-influenza respiratory infection after influenza B virus infection in children. Epidemiol Infect. 2024 Apr 8;152:e60.
+**Tsang TK**, <ins>Du RQR</ins>, Fang VJ, Lau EHY, Chan KH, Chu DKW, Ip DKM, Peiris JSM, Leung GM, Cauchemez S, Cowling BJ. Decreased risk of non-influenza respiratory infection after influenza B virus infection in children. Epidemiol Infect. 2024 Apr 8;152:e60.
 
-Zhang C, Fang VJ, Chan KH, Leung GM, Ip DKM, Peiris JSM, Cowling BJ, **Tsang TK#**. Interplay between viral shedding, age, and symptoms on individual infectiousness of influenza cases in households. J Infect Dis. 2024 Aug 28:jiae434. 
+<ins>Zhang C</ins>, Fang VJ, Chan KH, Leung GM, Ip DKM, Peiris JSM, Cowling BJ, **Tsang TK#**. Interplay between viral shedding, age, and symptoms on individual infectiousness of influenza cases in households. J Infect Dis. 2024 Aug 28:jiae434. 
 
-Peng L, Huang X, Wang C, Xin H, Cowling BJ, Wu P, **Tsang TK#**. Comparative epidemiology of outbreaks caused by SARS-CoV-2 Delta and Omicron variants in China. Epidemiol Infect. 2024 Mar 19;152:e43.
+<ins>Peng L</ins>, <ins>Huang X</ins>, <ins>Wang C</ins>, Xin H, Cowling BJ, Wu P, **Tsang TK#**. Comparative epidemiology of outbreaks caused by SARS-CoV-2 Delta and Omicron variants in China. Epidemiol Infect. 2024 Mar 19;152:e43.
 
-Young BR, Ho F, Lin Y, Lau EHY, Cowling BJ, Wu P, **Tsang TK#**. Estimation of the Time-Varying Effective Reproductive Number of COVID-19 Based on Multivariate Time Series of Severe Health Outcomes. J Infect Dis. 2024 Feb 14;229(2):502-506.
+<ins>Young BR</ins>, <ins>Ho F</ins>, Lin Y, Lau EHY, Cowling BJ, Wu P, **Tsang TK#**. Estimation of the Time-Varying Effective Reproductive Number of COVID-19 Based on Multivariate Time Series of Severe Health Outcomes. J Infect Dis. 2024 Feb 14;229(2):502-506.
 
 Peng H, Cai XQ, Zhen J, Shen JJ, Shen HS, Wu XH, Zhou YB, Ren L, Wu J, Xu A, **Tsang TK#**, Cheung BMY#, Li C#. The association between circulating fatty acids and stroke in hypertensive patients. Am J Med Sci. 2024 Jul;368(1):48-54
 
-Yang B, Lin Y, Xiong W, Liu C, Gao H, Ho F, Zhou J, Zhang R, Wong JY, Cheung JK, Lau EHY, **Tsang TK**, Xiao J, Wong IOL, Martín-Sánchez M, Leung GM, Cowling BJ, Wu P. Comparison of control and transmission of COVID-19 across epidemic waves in Hong Kong: an observational study. Lancet Reg Health West Pac. 2023 Nov 22;43:100969
+Yang B, Lin Y, <ins>Xiong W</ins>, Liu C, Gao H, <ins>Ho F</ins>, Zhou J, Zhang R, Wong JY, Cheung JK, Lau EHY, **Tsang TK**, Xiao J, Wong IOL, Martín-Sánchez M, Leung GM, Cowling BJ, Wu P. Comparison of control and transmission of COVID-19 across epidemic waves in Hong Kong: an observational study. Lancet Reg Health West Pac. 2023 Nov 22;43:100969
 
 Jia JZ, Cohen CA, Gu H, McLean MR, Varadarajan R, Bhandari N, Peiris M, Leung GM, Poon LLM, **Tsang TK**, Chung AW, Cowling BJ, Leung NHL, Valkenburg SA. Influenza antibody breadth and effector functions are immune correlates from acquisition of pandemic infection of children. Nat Commun. 2024 Apr 13;15(1):3210. 
 
 **2023**
 
-**Tsang TK#**, Wang C, Fang VJ, Perera RAPM, So HC, Ip DKM, Leung GM, Peiris JSM, Cauchemez S, Cowling BJ. Reconstructing household transmission dynamics to estimate the infectiousness of asymptomatic influenza virus infections. Proc Natl Acad Sci U S A. 2023 Aug 15;120(33):e2304750120.
+**Tsang TK#**, <ins>Wang C</ins>, Fang VJ, Perera RAPM, So HC, Ip DKM, Leung GM, Peiris JSM, Cauchemez S, Cowling BJ. Reconstructing household transmission dynamics to estimate the infectiousness of asymptomatic influenza virus infections. Proc Natl Acad Sci U S A. 2023 Aug 15;120(33):e2304750120.
 
-**Tsang TK#**, Huang X, Fong MW, Wang C, Lau EHY, Wu P, Cowling BJ. Effects of School-Based Preventive Measures on COVID-19 Incidence, Hong Kong, 2022. Emerg Infect Dis. 2023 Sep;29(9):1850-1854. 
+**Tsang TK#**, <ins>Huang X</ins>, Fong MW, <ins>Wang C</ins>, Lau EHY, Wu P, Cowling BJ. Effects of School-Based Preventive Measures on COVID-19 Incidence, Hong Kong, 2022. Emerg Infect Dis. 2023 Sep;29(9):1850-1854. 
 
-**Tsang TK#**, Huang X, Wang C, Chen S, Yang B, Cauchemez S, Cowling BJ. The effect of variation of individual infectiousness on SARS-CoV-2 transmission in households. eLife. 2023 Mar 7;12:e82611.
+**Tsang TK#**, <ins>Huang X</ins>, <ins>Wang C</ins>, Chen S, Yang B, Cauchemez S, Cowling BJ. The effect of variation of individual infectiousness on SARS-CoV-2 transmission in households. eLife. 2023 Mar 7;12:e82611.
 
-**Tsang TK#**, Wang C, Tsang NNY, Fang VJ, Perera RAPM, Malik Peiris JS, Leung GM, Cowling BJ, Ip DKM. Impact of host genetic polymorphisms on response to inactivated influenza vaccine in children. NPJ Vaccines. 2023 Feb 20;8(1):21.
+**Tsang TK#**, <ins>Wang C</ins>, Tsang NNY, Fang VJ, Perera RAPM, Malik Peiris JS, Leung GM, Cowling BJ, Ip DKM. Impact of host genetic polymorphisms on response to inactivated influenza vaccine in children. NPJ Vaccines. 2023 Feb 20;8(1):21.
 
-**Tsang TK#**, Huang X, Guo Y, Lau EHY, Cowling BJ, Ip DKM. Monitoring School Absenteeism for Influenza-Like Illness Surveillance: Systematic Review and Meta-analysis. JMIR Public Health Surveill. 2023 Jan 11;9:e41329.
+**Tsang TK#**, <ins>Huang X</ins>, Guo Y, Lau EHY, Cowling BJ, Ip DKM. Monitoring School Absenteeism for Influenza-Like Illness Surveillance: Systematic Review and Meta-analysis. JMIR Public Health Surveill. 2023 Jan 11;9:e41329.
 
-**Tsang TK#**, Gostic KM, Chen S, Wang Y, Arevalo P, Lau EHY, Cobey S, Cowling BJ. Investigation of impact of childhood immune imprinting on birth year-specific risk of clinical infection during influenza A virus epidemics in Hong Kong. J Infect Dis. 2023 Jan 13:jiad009
+**Tsang TK#**, Gostic KM, Chen S, <ins>Wang Y</ins>, Arevalo P, Lau EHY, Cobey S, Cowling BJ. Investigation of impact of childhood immune imprinting on birth year-specific risk of clinical infection during influenza A virus epidemics in Hong Kong. J Infect Dis. 2023 Jan 13:jiad009
 
-Xiong W, Cowling BJ, **Tsang TK#**. Influenza Resurgence after Relaxation of Public Health and Social Measures, Hong Kong, 2023. Emerg Infect Dis. 2023 Dec;29(12):2556-2559. 
+<ins>Xiong W</ins>, Cowling BJ, **Tsang TK#**. Influenza Resurgence after Relaxation of Public Health and Social Measures, Hong Kong, 2023. Emerg Infect Dis. 2023 Dec;29(12):2556-2559. 
 
-Xiong W, Peng L, **Tsang TK#**, Cowling BJ. Epidemiology of SARS-CoV-2 Omicron BA.5 Infections, Macau, June-July 2022. Emerg Infect Dis. 2023 
+<ins>Xiong W</ins>, <ins>Peng L</ins>, **Tsang TK#**, Cowling BJ. Epidemiology of SARS-CoV-2 Omicron BA.5 Infections, Macau, June-July 2022. Emerg Infect Dis. 2023 
 
-Ho F, Parag KV, Adam DC, Lau EHY, Cowling BJ, **Tsang TK#**. Accounting for the Potential of Overdispersion in Estimation of the Time-varying Reproduction Number. Epidemiology. 2023 Mar 1;34(2):201-205
+<ins>Ho F</ins>, Parag KV, Adam DC, Lau EHY, Cowling BJ, **Tsang TK#**. Accounting for the Potential of Overdispersion in Estimation of the Time-varying Reproduction Number. Epidemiology. 2023 Mar 1;34(2):201-205
 
-Sullivan SG, Khvorov A, Huang X, Wang C, Ainslie KEC, Nealon J, Yang B, Cowling BJ, **Tsang TK**. The need for a clinical case definition in test-negative design studies estimating vaccine effectiveness. NPJ Vaccines. 2023 Aug 12;8(1):118.
+Sullivan SG, Khvorov A, <ins>Huang X</ins>, <ins>Wang C</ins>, Ainslie KEC, Nealon J, Yang B, Cowling BJ, **Tsang TK**. The need for a clinical case definition in test-negative design studies estimating vaccine effectiveness. NPJ Vaccines. 2023 Aug 12;8(1):118.
 
 Lin Y, Wu P, **Tsang TK**, Wong JY, Lau EHY, Yang B, Leung GM, Cowling BJ. Viral kinetics of SARS-CoV-2 following onset of COVID-19 in symptomatic patients infected with the ancestral strain and omicron BA.2 in Hong Kong: a retrospective observational study. Lancet Microbe. 2023 Sep;4(9):e722-e731. 
 
-Xie R, Edwards KM, Adam DC, Leung KSM, **Tsang TK**, Gurung S, Xiong W, Wei X, Ng DYM, Liu GYZ, Krishnan P, Chang LDJ, Cheng SMS, Gu H, Siu GKH, Wu JT, Leung GM, Peiris M, Cowling BJ, Poon LLM, Dhanasekaran V. Resurgence of Omicron BA.2 in SARS-CoV-2 infection-naive Hong Kong. Nat Commun. 2023 Apr 27;14(1):2422 
+Xie R, Edwards KM, Adam DC, Leung KSM, **Tsang TK**, Gurung S, <ins>Xiong W</ins>, Wei X, Ng DYM, Liu GYZ, Krishnan P, Chang LDJ, Cheng SMS, Gu H, Siu GKH, Wu JT, Leung GM, Peiris M, Cowling BJ, Poon LLM, Dhanasekaran V. Resurgence of Omicron BA.2 in SARS-CoV-2 infection-naive Hong Kong. Nat Commun. 2023 Apr 27;14(1):2422 
 
 Du Z, Zhang X, Wang L, Yao S, Bai Y, Tan Q, Xu X, Pei S, Xiao J, **Tsang TK**, Liao Q, Lau EHY, Wu P, Gao C, Cowling BJ. Characterizing Human Collective Behaviors During COVID-19 - Hong Kong SAR, China, 2020. China CDC Wkly. 2023 Jan 27;5(4):71-75
 
-Lun P, Ning K, Wang Y, Ma TSW, Flores FP, Xiao X, Subramaniam M, Abdin E, Tian L, **Tsang TK**, Leung K, Wu JT, Cowling BJ, Leung GM, Ni MY. COVID-19 Vaccination Willingness and Reasons for Vaccine Refusal. JAMA Netw Open. 2023 Oct 2;6(10):e2337909.
+Lun P, Ning K, <ins>Wang Y</ins>, Ma TSW, Flores FP, Xiao X, Subramaniam M, Abdin E, Tian L, **Tsang TK**, Leung K, Wu JT, Cowling BJ, Leung GM, Ni MY. COVID-19 Vaccination Willingness and Reasons for Vaccine Refusal. JAMA Netw Open. 2023 Oct 2;6(10):e2337909.
 
 **2022**
 
@@ -67,19 +67,19 @@ Lun P, Ning K, Wang Y, Ma TSW, Flores FP, Xiao X, Subramaniam M, Abdin E, Tian L
 
 **Tsang TK**, Lam KT, Liu Y, Fang VJ, Mu X, Leung NHL, Peiris JSM, Leung GM, Cowling BJ, Tu W. Investigation of CD4 and CD8 T cell-mediated protection against influenza A virus in a cohort study BMC Med. 2022 Jul 21;20(1):230.
 
-**Tsang TK#**, Wang C, Fang VJ, Perera RAPM, So HC, Ip DKM, Peiris JSM, Leung GM, Cauchemez S, Cowling BJ. Indirect Protection from Vaccinating Children against Influenza A Virus Infection in Households. Viruses. 2022 Sep 21;14(10):2097.
+**Tsang TK#**, <ins>Wang C</ins>, Fang VJ, Perera RAPM, So HC, Ip DKM, Peiris JSM, Leung GM, Cauchemez S, Cowling BJ. Indirect Protection from Vaccinating Children against Influenza A Virus Infection in Households. Viruses. 2022 Sep 21;14(10):2097.
 
 **Tsang TK***, Fang LQ*, Zhang A, Jiang FC, Ruan SM, Liu LZ, Cowling BJ, Liu W, Yang Y. Variability in transmission risk of SARS-CoV-2 in close contact settings: A contact tracing study in Shandong Province, China Epidemics. 2022 Mar 9;39:100553 
 
-Xiong W, **Tsang TK#**, Perera RAPM, Leung NHL, Fang VJ, Barr IG, Peiris JSM, Cowling BJ. Biphasic waning of hemagglutination inhibition antibody titers after influenza vaccination in children. J Infect Dis. 2022 Apr 5:jiac117.
+<ins>Xiong W</ins>, **Tsang TK#**, Perera RAPM, Leung NHL, Fang VJ, Barr IG, Peiris JSM, Cowling BJ. Biphasic waning of hemagglutination inhibition antibody titers after influenza vaccination in children. J Infect Dis. 2022 Apr 5:jiac117.
 
-Ho F, **Tsang TK#**, Gao H, Xiao J, Lau EHY, Wong JY, Wu P, Leung GM, Cowling BJ. Restaurant-Based Measures to Control Community Transmission of COVID-19, Hong Kong Emerg Infect Dis. 2022 Mar;28(3):759-761.
+<ins>Ho F</ins>, **Tsang TK#**, Gao H, Xiao J, Lau EHY, Wong JY, Wu P, Leung GM, Cowling BJ. Restaurant-Based Measures to Control Community Transmission of COVID-19, Hong Kong Emerg Infect Dis. 2022 Mar;28(3):759-761.
 
-Wang C, Huang X, Lau EHY, Cowling BJ, **Tsang TK#**. Association Between Population-Level Factors and Household Secondary Attack Rate of SARS-CoV-2: A Systematic Review and Meta-analysis. Open Forum Infect Dis. 2022 Dec 16;10(1):ofac676.
+<ins>Wang C</ins>, <ins>Huang X</ins>, Lau EHY, Cowling BJ, **Tsang TK#**. Association Between Population-Level Factors and Household Secondary Attack Rate of SARS-CoV-2: A Systematic Review and Meta-analysis. Open Forum Infect Dis. 2022 Dec 16;10(1):ofac676.
 
 Cheung JTL, **Tsang TK**, Yen HL, Perera RAPM, Mok CKP, Lin YP, Cowling BJ, Peiris M. Determining Existing Human Population Immunity as Part of Assessing Influenza Pandemic Risk Emerg Infect Dis. 2022 May;28(5):977-985. 
 
-Yang B, Huang X, Gao H, Leung NH, **Tsang TK**, Cowling BJ. Immunogenicity, efficacy, and safety of SARS-CoV-2 vaccine dose fractionation: a systematic review and meta-analysis. BMC Med. 2022 Oct 25;20(1):409.
+Yang B, <ins>Huang X</ins>, Gao H, Leung NH, **Tsang TK**, Cowling BJ. Immunogenicity, efficacy, and safety of SARS-CoV-2 vaccine dose fractionation: a systematic review and meta-analysis. BMC Med. 2022 Oct 25;20(1):409.
 
 Chen D, Lau YC, Xu XK, Wang L, Du Z, **Tsang TK**, Wu P, Lau EHY, Wallinga J, Cowling BJ, Ali ST. Inferring time-varying generation time, serial interval, and incubation period distributions for COVID-19. Nat Commun. 2022 Dec 13;13(1):7727.
 
@@ -87,7 +87,7 @@ Du Z, Wang L, Shan S, Lam D, **Tsang TK**, Xiao J, Gao H, Yang B, Ali ST, Pei S,
 
 Ali ST, Lau YC, Shan S, Ryu S, Du Z, Wang L, Xu XK, Chen D, Xiong J, Tae J, **Tsang TK**, Wu P, Lau EHY, Cowling BJ. Prediction of upcoming global infection burden of influenza seasons after relaxation of public health and social measures during the COVID-19 pandemic: a modelling study. Lancet Glob Health. 2022 Nov;10(11):e1612-e1622.
 
-Lin Y, Yang B, Cobey S, Lau EHY, Adam DC, Wong JY, Bond HS, Cheung JK, Ho F, Gao H, Ali ST, Leung NHL, **Tsang TK**, Wu P, Leung GM, Cowling BJ. Incorporating temporal distribution of population-level viral load enables real-time estimation of COVID-19 transmission Nat Commun. 2022 Mar 3;13(1):1155. 
+Lin Y, Yang B, Cobey S, Lau EHY, Adam DC, Wong JY, Bond HS, Cheung JK, <ins>Ho F</ins>, Gao H, Ali ST, Leung NHL, **Tsang TK**, Wu P, Leung GM, Cowling BJ. Incorporating temporal distribution of population-level viral load enables real-time estimation of COVID-19 transmission Nat Commun. 2022 Mar 3;13(1):1155. 
 
 Yang B, Wong IOL, Xiao J, **Tsang TK**, Liao Q, Cowling BJ. Effectiveness of CoronaVac and BNT162b2 Vaccines Against Severe Acute Respiratory Syndrome Coronavirus 2 Omicron BA.2 Infections in Hong Kong. J Infect Dis. 2022 Oct 17;226(8):1382-1384.
 
@@ -95,7 +95,7 @@ Ryu S, Han C, Kim D, **Tsang TK**, Cowling BJ, Lee S. Association Between the Re
 
 **2021**
 
-**Tsang TK**, Wang C, Yang B, Cauchemez S, Cowling BJ. Using secondary cases to characterize the severity of an emerging or re-emerging infection Nat Commun. 2021 Nov 4;12(1):6372. 
+**Tsang TK**, <ins>Wang C</ins>, Yang B, Cauchemez S, Cowling BJ. Using secondary cases to characterize the severity of an emerging or re-emerging infection Nat Commun. 2021 Nov 4;12(1):6372. 
 
 **Tsang TK#**, Wu P, Lau EHY, Cowling BJ. Accounting for imported cases in estimating the time-varying reproductive number of COVID-19 in Hong Kong. J Infect Dis. 2021 Jun 4:jiab299.
 
@@ -105,11 +105,11 @@ Xin H, Li Y, Wu P, Li Z, Lau EHY, Qin Y, Wang L, Cowling BJ, **Tsang TK#**, Li Z
 
 Lau YC, **Tsang TK#**, Kennedy-Shaffer L, Kahn R, Lau EHY, Chen D, Wong JY, Ali ST, Wu P, Cowling BJ. Joint estimation of generation time and incubation period for coronavirus disease (COVID-19). J Infect Dis. 2021 Aug 23:jiab424
 
-Yang B, Wu P, Lau EH, Wong JY, Ho F, Gao H, Xiao J, Adam DC, Ng TW, Quan J, **Tsang TK**, Liao Q, Cowling BJ, Leung GM. Changing disparities in COVID-19 burden in the ethnically homogeneous population of Hong Kong through pandemic waves: an observational study. Clin Infect Dis. 2021 Jan 6
+Yang B, Wu P, Lau EH, Wong JY, <ins>Ho F</ins>, Gao H, Xiao J, Adam DC, Ng TW, Quan J, **Tsang TK**, Liao Q, Cowling BJ, Leung GM. Changing disparities in COVID-19 burden in the ethnically homogeneous population of Hong Kong through pandemic waves: an observational study. Clin Infect Dis. 2021 Jan 6
 
 Du Z, Wang L, Yang B, Ali ST, **Tsang TK**, Shan S, Wu P, Lau EHY, Cowling BJ, Meyers LA. Risk for International Importations of Variant SARS-CoV-2 Originating in the United Kingdom. Emerg Infect Dis. 2021 May;27(5):1527-1529.
 
-Yang B, **Tsang TK**, Wong JY, He Y, Gao H, Ho F, Lau EH, Wu P, Sullivan SG, Cowling BJ. The differential importation risks of COVID-19 from inbound travellers and the feasibility of targeted travel controls: A case study in Hong Kong. Lancet Reg Health West Pac. 2021 Aug;13:100184.
+Yang B, **Tsang TK**, Wong JY, He Y, Gao H, <ins>Ho F</ins>, Lau EH, Wu P, Sullivan SG, Cowling BJ. The differential importation risks of COVID-19 from inbound travellers and the feasibility of targeted travel controls: A case study in Hong Kong. Lancet Reg Health West Pac. 2021 Aug;13:100184.
 
 Gao H, Du Z, **Tsang TK**, Xiao J, Shan S, Liao Q, Wu P, Leung GM, Cowling BJ. Pandemic fatigue and attenuated impact of avoidance behaviours against COVID-19 transmission in Hong Kong by cross-sectional telephone surveys. BMJ open. 2021 Dec 20;11(12):e055909
 
@@ -175,7 +175,7 @@ Xu C, Chan KH, **Tsang TK**, Fang VJ, Fung RO, Ip DK, Cauchemez S, Leung GM, Pei
 
 **Tsang TK**, Cauchemez S, Perera RA, Freeman G, Fang VJ, Ip DK, Leung GM, Peiris JS, Cowling BJ. Association between antibody titers and protection against influenza virus infection within households. J Infect Dis. 2014;210(5):684-92.
 
-Wang C*, Yu H*, Horby P*, Cao B*, Wu P*, Yang S*, Gao H*, Li H*, **Tsang TK***, Liao Q, Gao Z, Ip DK, Jia H, Jiang H, Liu B, Ni MY, Dai X, Liu F, Kinh NV, Liem NT, Hien TT, Li Y, Yang J, Wu JT, Zheng Y, Leung GM, Farrar J, Cowling BJ, Uyeki TM, Li L. Comparison of patients hospitalized with influenza A H7N9, H5N1, and 2009 pandemic H1N1. Clin Infect Dis. 2014 ;58(8):1095-103. 
+<ins>Wang C</ins>*, Yu H*, Horby P*, Cao B*, Wu P*, Yang S*, Gao H*, Li H*, **Tsang TK***, Liao Q, Gao Z, Ip DK, Jia H, Jiang H, Liu B, Ni MY, Dai X, Liu F, Kinh NV, Liem NT, Hien TT, Li Y, Yang J, Wu JT, Zheng Y, Leung GM, Farrar J, Cowling BJ, Uyeki TM, Li L. Comparison of patients hospitalized with influenza A H7N9, H5N1, and 2009 pandemic H1N1. Clin Infect Dis. 2014 ;58(8):1095-103. 
 
 Lau EH, Zheng J, **Tsang TK**, Liao Q, Lewis B, Brownstein JS, Sanders S, Wong JY, Mekaru SR, Rivers C, Wu P, Jiang H, Li Y, Yu J, Zhang Q, Chang Z, Liu F, Peng Z, Leung GM, Feng L, Cowling BJ, Yu H. Accuracy of epidemiological inferences based on publicly available information: retrospective comparative analysis of line lists of human cases infected with influenza A(H7N9) in China. BMC Med. 2014 May 28;12:88.
 
@@ -187,7 +187,7 @@ Feng L, Wu JT, Liu X, Yang P, **Tsang TK**, Jiang H, Wu P, Yang J, Fang VJ, Qin 
 
 **2013**
 
-Yu H, Cowling BJ, Feng L, Lau EH, Liao Q, **Tsang TK**, Peng Z, Wu P, Liu F, Fang VJ, Zhang H, Li M, Zeng L, Xu Z, Li Z, Luo H, Li Q, Feng Z, Cao B, Yang W, Wu JT, Wang Y, Leung GM. Human infection with avian influenza A H7N9 virus: an assessment of clinical severity. Lancet. 2013 Jul 13;382(9887):138-45. 
+Yu H, Cowling BJ, Feng L, Lau EH, Liao Q, **Tsang TK**, Peng Z, Wu P, Liu F, Fang VJ, Zhang H, Li M, Zeng L, Xu Z, Li Z, Luo H, Li Q, Feng Z, Cao B, Yang W, Wu JT, <ins>Wang Y</ins>, Leung GM. Human infection with avian influenza A H7N9 virus: an assessment of clinical severity. Lancet. 2013 Jul 13;382(9887):138-45. 
 
-Cowling BJ, Jin L, Lau EH, Liao Q, Wu P, Jiang H, **Tsang TK**, Zheng J, Fang VJ, Chang Z, Ni MY, Zhang Q, Ip DK, Yu J, Li Y, Wang L, Tu W, Meng L, Wu JT, Luo H, Li Q, Shu Y, Li Z, Feng Z, Yang W, Wang Y, Leung GM, Yu H. Comparative epidemiology of human infections with avian influenza A H7N9 and H5N1 viruses in China: a population-based study of laboratory-confirmed cases. Lancet. 2013 Jul 13;382(9887):129-37. 
+Cowling BJ, Jin L, Lau EH, Liao Q, Wu P, Jiang H, **Tsang TK**, Zheng J, Fang VJ, Chang Z, Ni MY, Zhang Q, Ip DK, Yu J, Li Y, Wang L, Tu W, Meng L, Wu JT, Luo H, Li Q, Shu Y, Li Z, Feng Z, Yang W, <ins>Wang Y</ins>, Leung GM, Yu H. Comparative epidemiology of human infections with avian influenza A H7N9 and H5N1 viruses in China: a population-based study of laboratory-confirmed cases. Lancet. 2013 Jul 13;382(9887):129-37. 
 
