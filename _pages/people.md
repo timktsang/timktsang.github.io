@@ -17,7 +17,7 @@ Current
 * Yu Meng (PhD supervisor, 07/2023 to present; Research Assistant, 02/2023 to 06/2023)
 * Yanfang Xu (PhD supervisor, 09/2023 to present)
 * Chengyao Zhang (HKPFS awardee)(PhD supervisor, 11/2023 to present)
-* Haoling Chen(PhD supervisor, 01/2025 - present; HKUPS awardee; Outstanding performance in HKU Summer Research Programme 2024)
+* Haoling Chen (PhD supervisor, 01/2025 - present; HKUPS awardee; Outstanding performance in HKU Summer Research Programme 2024)
 * Xiaotong Huang (Research Assistant, 09/2021 to present)
 * Zhimin Liu (Research Assistant, 11/2024 to present)
 
