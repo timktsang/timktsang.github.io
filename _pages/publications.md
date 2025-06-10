@@ -123,11 +123,11 @@ Xin H, Li Y, Wu P, Li Z, Lau EHY, Qin Y, Wang L, Cowling BJ, **Tsang TK#**, Li Z
 
 Lau YC, **Tsang TK#**, Kennedy-Shaffer L, Kahn R, Lau EHY, Chen D, Wong JY, Ali ST, Wu P, Cowling BJ. Joint estimation of generation time and incubation period for coronavirus disease (COVID-19). J Infect Dis. 2021 Aug 23:jiab424
 
-Yang B, Wu P, Lau EH, Wong JY, <ins>Ho F</ins>, Gao H, Xiao J, Adam DC, Ng TW, Quan J, **Tsang TK**, Liao Q, Cowling BJ, Leung GM. Changing disparities in COVID-19 burden in the ethnically homogeneous population of Hong Kong through pandemic waves: an observational study. Clin Infect Dis. 2021 Jan 6
+Yang B, Wu P, Lau EH, Wong JY, Ho F, Gao H, Xiao J, Adam DC, Ng TW, Quan J, **Tsang TK**, Liao Q, Cowling BJ, Leung GM. Changing disparities in COVID-19 burden in the ethnically homogeneous population of Hong Kong through pandemic waves: an observational study. Clin Infect Dis. 2021 Jan 6
 
 Du Z, Wang L, Yang B, Ali ST, **Tsang TK**, Shan S, Wu P, Lau EHY, Cowling BJ, Meyers LA. Risk for International Importations of Variant SARS-CoV-2 Originating in the United Kingdom. Emerg Infect Dis. 2021 May;27(5):1527-1529.
 
-Yang B, **Tsang TK**, Wong JY, He Y, Gao H, <ins>Ho F</ins>, Lau EH, Wu P, Sullivan SG, Cowling BJ. The differential importation risks of COVID-19 from inbound travellers and the feasibility of targeted travel controls: A case study in Hong Kong. Lancet Reg Health West Pac. 2021 Aug;13:100184.
+Yang B, **Tsang TK**, Wong JY, He Y, Gao H, Ho F, Lau EH, Wu P, Sullivan SG, Cowling BJ. The differential importation risks of COVID-19 from inbound travellers and the feasibility of targeted travel controls: A case study in Hong Kong. Lancet Reg Health West Pac. 2021 Aug;13:100184.
 
 Gao H, Du Z, **Tsang TK**, Xiao J, Shan S, Liao Q, Wu P, Leung GM, Cowling BJ. Pandemic fatigue and attenuated impact of avoidance behaviours against COVID-19 transmission in Hong Kong by cross-sectional telephone surveys. BMJ open. 2021 Dec 20;11(12):e055909
 
@@ -193,7 +193,7 @@ Xu C, Chan KH, **Tsang TK**, Fang VJ, Fung RO, Ip DK, Cauchemez S, Leung GM, Pei
 
 **Tsang TK**, Cauchemez S, Perera RA, Freeman G, Fang VJ, Ip DK, Leung GM, Peiris JS, Cowling BJ. Association between antibody titers and protection against influenza virus infection within households. J Infect Dis. 2014;210(5):684-92.
 
-<ins>Wang C</ins>*, Yu H*, Horby P*, Cao B*, Wu P*, Yang S*, Gao H*, Li H*, **Tsang TK***, Liao Q, Gao Z, Ip DK, Jia H, Jiang H, Liu B, Ni MY, Dai X, Liu F, Kinh NV, Liem NT, Hien TT, Li Y, Yang J, Wu JT, Zheng Y, Leung GM, Farrar J, Cowling BJ, Uyeki TM, Li L. Comparison of patients hospitalized with influenza A H7N9, H5N1, and 2009 pandemic H1N1. Clin Infect Dis. 2014 ;58(8):1095-103. 
+Wang C*, Yu H*, Horby P*, Cao B*, Wu P*, Yang S*, Gao H*, Li H*, **Tsang TK***, Liao Q, Gao Z, Ip DK, Jia H, Jiang H, Liu B, Ni MY, Dai X, Liu F, Kinh NV, Liem NT, Hien TT, Li Y, Yang J, Wu JT, Zheng Y, Leung GM, Farrar J, Cowling BJ, Uyeki TM, Li L. Comparison of patients hospitalized with influenza A H7N9, H5N1, and 2009 pandemic H1N1. Clin Infect Dis. 2014 ;58(8):1095-103. 
 
 Lau EH, Zheng J, **Tsang TK**, Liao Q, Lewis B, Brownstein JS, Sanders S, Wong JY, Mekaru SR, Rivers C, Wu P, Jiang H, Li Y, Yu J, Zhang Q, Chang Z, Liu F, Peng Z, Leung GM, Feng L, Cowling BJ, Yu H. Accuracy of epidemiological inferences based on publicly available information: retrospective comparative analysis of line lists of human cases infected with influenza A(H7N9) in China. BMC Med. 2014 May 28;12:88.
 
@@ -205,7 +205,7 @@ Feng L, Wu JT, Liu X, Yang P, **Tsang TK**, Jiang H, Wu P, Yang J, Fang VJ, Qin 
 
 **2013**
 
-Yu H, Cowling BJ, Feng L, Lau EH, Liao Q, **Tsang TK**, Peng Z, Wu P, Liu F, Fang VJ, Zhang H, Li M, Zeng L, Xu Z, Li Z, Luo H, Li Q, Feng Z, Cao B, Yang W, Wu JT, <ins>Wang Y</ins>, Leung GM. Human infection with avian influenza A H7N9 virus: an assessment of clinical severity. Lancet. 2013 Jul 13;382(9887):138-45. 
+Yu H, Cowling BJ, Feng L, Lau EH, Liao Q, **Tsang TK**, Peng Z, Wu P, Liu F, Fang VJ, Zhang H, Li M, Zeng L, Xu Z, Li Z, Luo H, Li Q, Feng Z, Cao B, Yang W, Wu JT, Wang Y, Leung GM. Human infection with avian influenza A H7N9 virus: an assessment of clinical severity. Lancet. 2013 Jul 13;382(9887):138-45. 
 
-Cowling BJ, Jin L, Lau EH, Liao Q, Wu P, Jiang H, **Tsang TK**, Zheng J, Fang VJ, Chang Z, Ni MY, Zhang Q, Ip DK, Yu J, Li Y, Wang L, Tu W, Meng L, Wu JT, Luo H, Li Q, Shu Y, Li Z, Feng Z, Yang W, <ins>Wang Y</ins>, Leung GM, Yu H. Comparative epidemiology of human infections with avian influenza A H7N9 and H5N1 viruses in China: a population-based study of laboratory-confirmed cases. Lancet. 2013 Jul 13;382(9887):129-37. 
+Cowling BJ, Jin L, Lau EH, Liao Q, Wu P, Jiang H, **Tsang TK**, Zheng J, Fang VJ, Chang Z, Ni MY, Zhang Q, Ip DK, Yu J, Li Y, Wang L, Tu W, Meng L, Wu JT, Luo H, Li Q, Shu Y, Li Z, Feng Z, Yang W, Wang Y, Leung GM, Yu H. Comparative epidemiology of human infections with avian influenza A H7N9 and H5N1 viruses in China: a population-based study of laboratory-confirmed cases. Lancet. 2013 Jul 13;382(9887):129-37. 
 
