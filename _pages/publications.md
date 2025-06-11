@@ -95,6 +95,8 @@ Lun P, Ning K, Wang Y, Ma TSW, Flores FP, Xiao X, Subramaniam M, Abdin E, Tian L
 
 <ins>Wang C</ins>, <ins>Huang X</ins>, Lau EHY, Cowling BJ, **Tsang TK#**. Association Between Population-Level Factors and Household Secondary Attack Rate of SARS-CoV-2: A Systematic Review and Meta-analysis. Open Forum Infect Dis. 2022 Dec 16;10(1):ofac676.
 
+Yang B, **Tsang TK**, Gao H, Lau EHY, Lin Y, Ho F, Xiao J, Wong JY, Adam DC, Liao Q, Wu P, Cowling BJ, Leung GM. Universal Community Nucleic Acid Testing for Coronavirus Disease 2019 (COVID-19) in Hong Kong Reveals Insights Into Transmission Dynamics: A Cross-Sectional and Modeling Study. Clin Infect Dis. 2022 Aug 24;75(1):e216-e223.
+
 Cheung JTL, **Tsang TK**, Yen HL, Perera RAPM, Mok CKP, Lin YP, Cowling BJ, Peiris M. Determining Existing Human Population Immunity as Part of Assessing Influenza Pandemic Risk Emerg Infect Dis. 2022 May;28(5):977-985. 
 
 Yang B, <ins>Huang X</ins>, Gao H, Leung NH, **Tsang TK**, Cowling BJ. Immunogenicity, efficacy, and safety of SARS-CoV-2 vaccine dose fractionation: a systematic review and meta-analysis. BMC Med. 2022 Oct 25;20(1):409.
