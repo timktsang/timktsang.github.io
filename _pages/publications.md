@@ -101,6 +101,8 @@ Cheung JTL, **Tsang TK**, Yen HL, Perera RAPM, Mok CKP, Lin YP, Cowling BJ, Peir
 
 Yang B, <ins>Huang X</ins>, Gao H, Leung NH, **Tsang TK**, Cowling BJ. Immunogenicity, efficacy, and safety of SARS-CoV-2 vaccine dose fractionation: a systematic review and meta-analysis. BMC Med. 2022 Oct 25;20(1):409.
 
+Yang B, Sullivan SG, Du Z, **Tsang TK**, Cowling BJ. Effectiveness of International Travel Controls for Delaying Local Outbreaks of COVID-19. Emerg Infect Dis. 2022 Jan;28(1):251-253.
+
 Chen D, Lau YC, Xu XK, Wang L, Du Z, **Tsang TK**, Wu P, Lau EHY, Wallinga J, Cowling BJ, Ali ST. Inferring time-varying generation time, serial interval, and incubation period distributions for COVID-19. Nat Commun. 2022 Dec 13;13(1):7727.
 
 Du Z, Wang L, Shan S, Lam D, **Tsang TK**, Xiao J, Gao H, Yang B, Ali ST, Pei S, Fung IC, Lau EHY, Liao Q, Wu P, Meyers LA, Leung GM, Cowling BJ. Pandemic fatigue impedes mitigation of COVID-19 in Hong Kong. Proc Natl Acad Sci U S A. 2022 Nov 29;119(48):e2213313119.
