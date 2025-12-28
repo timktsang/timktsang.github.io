@@ -27,6 +27,8 @@ author_profile: true
 
 <ins>Young BR</ins>, Ho F, Lin Y, Lau EHY, Wu P, Cowling BJ, **Tsang TK#**. Retrospective assessment of vaccination policy optimizations during an Omicron BA.2 epidemic in Hong Kong: A modelling study. J Infect Public Health. 2025 Sep 12;18(12):102972.
 
+<ins>Wang C</ins>, <ins>Peng L</ins>, <ins>Huang X</ins>, **Tsang TK#**. Impact of Vaccination and Public Health Measures on the Severity of SARS-CoV-2 Omicron Infections in China: A Systematic Review and Meta-Regression Analysis.. Vaccines (Basel). 2025 Jul 12;13(7):747
+   
 Dong S, Sun Y, Ni S, Tian Y, Feng Z, Jia L, Wang X, Zhang D, Wang Q, **Tsang TK#**, Yang P. Interplay Between Viral Shedding, Age, and Symptoms in Individual Infectivity of COVID-19 Breakthrough Infections in Households. Vaccines (Basel). 2025 Mar 19;13(3):329.
 
 Young BR, Ho F, Lin Y, Lau EHY, Wu P, Cowling BJ, **Tsang TK**. Optimization of school closures during an Omicron epidemic in Hong Kong: a modelling study. Interface Focus. 2025 Sep 26;15(4):20250016.
