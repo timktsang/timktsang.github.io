@@ -8,10 +8,14 @@ author_profile: true
 {% include base_path %}
 
 (*joint first author, #corresponding author, __Students/RAs)
+**2026**
+<ins>Zhang C</ins>, <ins>Huang X</ins>, Fang VJ, Chan KH, Leung GM, Ip DKM, Peiris JSM, Cowling BJ, Cauchemez S, **Tsang TK#**. Estimating pre-symptomatic transmission potential of influenza A and B viruses in household transmission studies. Accepted by Nature Health
 
 **2025**
 
 **Tsang TK#**, Rojas DP, Xu F, <ins>Xu Y</ins>, Zhu X, Halloran ME, Longini IM, Yang Y. Estimating transmissibility of Zika virus in Colombia in the presence of surveillance bias. Nat Commun. 2025 May 8;16(1):4299. 
+
+<ins>Xu Y</ins>, Li M, <ins>Peng L</ins>, <ins>Wang C</ins>, <ins>Wan Q</ins>, <ins>Zhang C</ins>, <ins>Xiong W</ins>, Yang B, **Tsang TK#**. Comparative Analysis of Flight Volume Effects on COVID-19 and Influenza Transmission Across Variable Control Intensities, 2019-2024. J Infect Dis. 2025 Oct 27:jiaf545
 
 <ins>Peng L</ins>, Ainslie KEC, <ins>Huang X</ins>, Cowling BJ, Wu P, **Tsang TK#**. Evaluating the association between COVID-19 transmission and mobility in omicron outbreaks in China. Commun Med (Lond). 2025 May 20;5(1):188. 
 
@@ -19,14 +23,24 @@ author_profile: true
 
 <ins>Chen H</ins>, <ins>Huang X</ins>, <ins>Wang C</ins>, Cowling BJ, **Tsang TK#**. Estimating the waning effectiveness of COVID-19 vaccines from population-level surveillance data in Hong Kong. J Infect Dis. 2025 Apr 18:jiaf207. 
 
+<ins>Young BR</ins>, Ho F, Lin Y, Lau EHY, Wu P, Cowling BJ, **Tsang TK#**. Retrospective assessment of vaccination policy optimizations during an Omicron BA.2 epidemic in Hong Kong: A modelling study. J Infect Public Health. 2025 Sep 12;18(12):102972.
+
 Dong S, Sun Y, Ni S, Tian Y, Feng Z, Jia L, Wang X, Zhang D, Wang Q, **Tsang TK#**, Yang P. Interplay Between Viral Shedding, Age, and Symptoms in Individual Infectivity of COVID-19 Breakthrough Infections in Households. Vaccines (Basel). 2025 Mar 19;13(3):329.
 
+Young BR, Ho F, Lin Y, Lau EHY, Wu P, Cowling BJ, **Tsang TK**. Optimization of school closures during an Omicron epidemic in Hong Kong: a modelling study. Interface Focus. 2025 Sep 26;15(4):20250016.
+    
 Yang B, Gostic KM, Adam DC, Zhang R, Einav T, <ins>Peng L</ins>, Wong SS, **Tsang TK**, Cummings DAT, Sullivan SG, Cobey S, Cowling BJ. Breadth of influenza A antibody cross-reactivity varies by virus isolation interval and subtype. Nat Microbiol (2025). https://doi.org/10.1038/s41564-025-02033-4
 
 Liu C, **Tsang TK**, Sullivan SG, Cowling BJ, Yang B. Comparative duration of neutralizing responses and protections of COVID-19 vaccination and correlates of protection. Nat Commun. 2025 May 22;16(1):4748.
 
+Chen D, Adam DC, Lau YC, Wang D, Lim WW, Ho F, **Tsang TK**, Lau EHY, Wu P, Wallinga J, Cowling BJ, Ali ST. Investigating setting-specific superspreading potential and generation intervals of COVID-19 in Hong Kong. Nat Commun. 2025 Jul 1;16(1):5816
+    
 <ins>Meng Y</ins>, Lin Y, <ins>Xiong W</ins>, Lau EHY, Ho F, Wong JY, Wu P, **Tsang TK**, Cowling BJ, Yang B. Effective Real-time Transmission Estimations Incorporating Population Viral Load Distributions Amid SARS-CoV-2 Variants and Preexisting Immunity. J Infect Dis. 2025 Mar 17;231(3):684-691. 
 
+Poukka E, Murphy C, Mak L, Cheng SMS, Peiris M, **Tsang TK**, Sullivan SG, Cowling BJ. Bias in control selection associated with the use of rapid tests in influenza vaccine effectiveness studies. Int J Epidemiol. 2025 Jun 11;54(4):dyaf089.
+
+Chua H, **Tsang TK**, Lee SL, Chan ELY, Kwan MYW, Wong JSC, Peiris M, Sullivan SG, Cowling BJ. Waning in influenza vaccine effectiveness against influenza A(H1N1)pdm09-associated hospitalization in children in 2012/13. Epidemiol Infect. 2025 Nov 24:1-25
+    
 **2024**
 
 **Tsang TK#**, <ins>Du Q</ins>, Cowling BJ, Viboud C. An adaptive weight ensemble approach to forecast influenza activity in an irregular seasonality context. Nat Commun. 2024 Oct 4;15(1):8625.
