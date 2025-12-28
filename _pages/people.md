@@ -11,22 +11,24 @@ redirect_from:
 
 Current
 ======
-* Weijia Xiong (PhD supervisor, 09/2021 to present)
 * Can Wang (PhD supervisor, 09/2022 to present; Research Assistant, 12/2020 to 08/2022)
 * Liping Peng (PhD supervisor, 02/2023 to present; Research Assistant, 04/2022 to 01/2023)
 * Yu Meng (PhD supervisor, 07/2023 to present; Research Assistant, 02/2023 to 06/2023)
 * Yanfang Xu (PhD supervisor, 09/2023 to present)
-* Chengyao Zhang (HKPFS awardee)(PhD supervisor, 11/2023 to present)
+* Chengyao Zhang (PhD supervisor, 11/2023 to present; HKPFS awardee)
 * Haoling Chen (PhD supervisor, 01/2025 - present; HKUPS awardee; Outstanding performance in HKU Summer Research Programme 2024)
-* Xiaotong Huang (Research Assistant, 09/2021 to present)
+* Yani Wu (PhD supervisor, 09/2025 - present; HKPFS awardee; Outstanding performance in HKU Summer Research Programme 2024)
+* Yue Sui (PhD supervisor, 09/2025 to present) 
+* Xiaotong Huang (MPhil supervisor, 09/2025 to present; Research Assistant, 09/2021 to 08/2025)
 * Zhimin Liu (Research Assistant, 11/2024 to present)
 
 Incoming
 ======
-* Yani Wu (HKUPS awardee; Outstanding performance in HKU Summer Research Programme 2024)(PhD supervisor, 09/2025 - )
+NA
 
 Alumni
 ======
+* Weijia Xiong (PhD supervisor, 09/2021 to 08/2025; Current position: Postdoc in Shenzhen, China)
 * Benjamin Young (PhD co-supervisor, 09/2021 to 05/2025; Current position: Postdoc in University of Oxford)
 * Faith Ho (PhD co-supervisor, 09/2019 to 08/2023; Current position: Assistant Technical Manager in The University of Hong Kong)
 * Qichang Wan (Part-time Research Assistant, 07/2024 to 04/2025; Current position: PhD student in Georgia State University)
