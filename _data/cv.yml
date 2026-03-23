@@ -35,19 +35,19 @@ cv:
 
     Experience:
       - company: The University of Hong Kong
-        position: Assistant Professor
-        location: School of Public Health, Hong Kong
+        position: Assistant Professor, School of Public Health
+        location: Hong Kong
         start_date: 2021
         end_date: present
 
       - company: The University of Hong Kong
-        position: Research Assistant Professor
-        location: School of Public Health, Hong Kong
+        position: Research Assistant Professor, School of Public Health
+        location: Hong Kong
         start_date: 2019
         end_date: 2021
 
       - company: University of Florida
-        position: Postdoctoral Associate
-        location: Department of Biostatistics, Gainesville, FL
+        position: Postdoctoral Associate, Department of Biostatistics
+        location: Gainesville, FL
         start_date: 2016
         end_date: 2019
