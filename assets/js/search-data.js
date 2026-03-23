@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
+        },{id: "nav-software",
+          title: "software",
+          description: "R packages and GitHub repositories",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/repositories/";
+          },
         },{id: "news-new-paper-published-in-nature-communications-an-adaptive-weight-ensemble-approach-to-forecast-influenza-activity-in-an-irregular-seasonality-context",
           title: 'New paper published in Nature Communications: “An adaptive weight ensemble approach to forecast...',
           description: "",
