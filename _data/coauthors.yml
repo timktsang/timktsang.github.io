@@ -1,0 +1,27 @@
+# Highlight coauthors in publications
+# Key supervised students/RAs with underline styling handled via BibTeX annotations
+"cowling":
+  - firstname: ["Benjamin J", "Benjamin J.", "BJ", "B. J."]
+    url: https://sph.hku.hk/en/Biography/Cowling-Benjamin-John
+
+"peiris":
+  - firstname: ["JS Malik", "J. S. Malik", "JSM", "Malik", "J.S.M.", "Joseph Sriyal Malik"]
+    url: https://scholar.google.com/citations?user=GQS1B6UAAAAJ
+
+"leung":
+  - firstname: ["Gabriel M", "Gabriel M.", "GM", "G. M."]
+    url: https://sph.hku.hk/en/Biography/Leung-Gabriel-Matthew
+
+"cauchemez":
+  - firstname: ["Simon", "S."]
+    url: https://research.pasteur.fr/en/member/simon-cauchemez/
+
+"yang":
+  - firstname: ["Yang"]
+    url: https://biostat.ufl.edu/profile/yang-yang/
+
+"longini":
+  - firstname: ["Ira M", "Ira M.", "IM", "I. M."]
+
+"halloran":
+  - firstname: ["M Elizabeth", "M. Elizabeth", "ME", "M. E."]

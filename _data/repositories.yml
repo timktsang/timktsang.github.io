@@ -1,0 +1,8 @@
+github_users:
+  - timktsang
+
+repo_description_lines_max: 2
+
+github_repos:
+  - timktsang/hhdynamics
+  - timktsang/seroreconstruct

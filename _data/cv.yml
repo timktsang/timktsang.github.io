@@ -1,0 +1,53 @@
+cv:
+  name: Tim K Tsang
+  label: Assistant Professor
+  email: matklab@hku.hk
+  location: Hong Kong
+  image: ""
+  summary: Assistant Professor at HKU School of Public Health. Research in mathematical and statistical methods for infectious disease dynamics and epidemiology.
+
+  social_networks:
+    - network: GitHub
+      username: timktsang
+
+  sections:
+    Education:
+      - institution: The University of Hong Kong
+        location: Hong Kong
+        area: Biostatistics and Epidemiology
+        studyType: PhD
+        start_date: 2012
+        end_date: 2016
+
+      - institution: Hong Kong University of Science and Technology
+        location: Hong Kong
+        area: Mathematics and Statistics
+        studyType: MPhil
+        start_date: 2010
+        end_date: 2012
+
+      - institution: Hong Kong University of Science and Technology
+        location: Hong Kong
+        area: Mathematics and Statistics
+        studyType: BS
+        start_date: 2006
+        end_date: 2010
+
+    Experience:
+      - company: The University of Hong Kong
+        position: Assistant Professor
+        location: School of Public Health, Hong Kong
+        start_date: 2021
+        end_date: present
+
+      - company: The University of Hong Kong
+        position: Research Assistant Professor
+        location: School of Public Health, Hong Kong
+        start_date: 2019
+        end_date: 2021
+
+      - company: University of Florida
+        position: Postdoctoral Associate
+        location: Department of Biostatistics, Gainesville, FL
+        start_date: 2016
+        end_date: 2019
