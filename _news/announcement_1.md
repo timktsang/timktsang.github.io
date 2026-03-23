@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Welcome to our new group website! We are actively recruiting MPhil/PhD students, post-doctoral fellows and research assistants. Please email <a href="mailto:timkltsang@gmail.com">timkltsang@gmail.com</a> with your CV and academic transcript.
+New paper published in <strong>Nature Health</strong>: "Frequent presymptomatic household transmission of influenza A but not influenza B virus"
