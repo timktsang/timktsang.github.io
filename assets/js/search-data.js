@@ -40,13 +40,6 @@ ninja.data = [{
           title: 'Welcome to our new group website! We are actively recruiting MPhil/PhD students, post-doctoral...',
           description: "",
           section: "News",},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/Tsang_CV.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
