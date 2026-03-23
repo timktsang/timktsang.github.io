@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-03-01
+date: 2026-01-28
 inline: true
 related_posts: false
 ---
 
-New paper published in <strong>Nature Health</strong>: "Frequent presymptomatic household transmission of influenza A but not influenza B virus"
+Congratulations to PhD student **Chengyao Zhang** on publishing in <strong>Nature Health</strong>: "Frequent presymptomatic household transmission of influenza A but not influenza B virus"
