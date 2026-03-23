@@ -43,8 +43,8 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-published-in-nature-communications-estimating-transmissibility-of-zika-virus-in-colombia-in-the-presence-of-surveillance-bias",
           title: 'New paper published in Nature Communications: “Estimating transmissibility of Zika virus in Colombia...',
           description: "",
-          section: "News",},{id: "news-new-paper-published-in-nature-health-frequent-presymptomatic-household-transmission-of-influenza-a-but-not-influenza-b-virus",
-          title: 'New paper published in Nature Health: “Frequent presymptomatic household transmission of influenza A...',
+          section: "News",},{id: "news-congratulations-to-phd-student-chengyao-zhang-on-publishing-in-nature-health-frequent-presymptomatic-household-transmission-of-influenza-a-but-not-influenza-b-virus",
+          title: 'Congratulations to PhD student Chengyao Zhang on publishing in Nature Health: “Frequent presymptomatic...',
           description: "",
           section: "News",},{
         id: 'social-email',
