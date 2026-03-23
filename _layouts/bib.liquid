@@ -56,6 +56,16 @@
       {% assign author_array_limit = author_array_size %}
       {% if site.max_author_limit and author_array_size > site.max_author_limit %}
         {% assign author_array_limit = site.max_author_limit %}
+        {% comment %} Check if self would be hidden; if so, show all authors {% endcomment %}
+        {% for author in entry.author_array offset: author_array_limit %}
+          {%- assign check_last = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
+          {% if site.scholar.last_name contains check_last %}
+            {% if site.scholar.first_name contains author.first %}
+              {% assign author_array_limit = author_array_size %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
       {% endif %}
 
       {%- for author in entry.author_array limit: author_array_limit -%}
