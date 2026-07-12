@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-congratulations-to-phd-student-chengyao-zhang-on-publishing-in-nature-health-frequent-presymptomatic-household-transmission-of-influenza-a-but-not-influenza-b-virus",
           title: 'Congratulations to PhD student Chengyao Zhang on publishing in Nature Health: “Frequent presymptomatic...',
           description: "",
+          section: "News",},{id: "news-congratulations-to-weijia-xiong-on-publishing-in-the-lancet-infectious-diseases-measuring-population-immunity-against-influenza-using-individual-antibody-titres",
+          title: 'Congratulations to Weijia Xiong on publishing in The Lancet Infectious Diseases: “Measuring population...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
