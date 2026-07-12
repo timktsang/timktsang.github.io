@@ -49,6 +49,9 @@ ninja.data = [{
           section: "News",},{id: "news-congratulations-to-weijia-xiong-on-publishing-in-the-lancet-infectious-diseases-measuring-population-immunity-against-influenza-using-individual-antibody-titres",
           title: 'Congratulations to Weijia Xiong on publishing in The Lancet Infectious Diseases: “Measuring population...',
           description: "",
+          section: "News",},{id: "news-new-paper-published-in-nature-health-association-of-public-health-and-social-measures-with-vaccine-effectiveness",
+          title: 'New paper published in Nature Health: “Association of public health and social measures...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
