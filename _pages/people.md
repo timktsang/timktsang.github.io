@@ -26,7 +26,7 @@ NA
 
 ## Alumni
 
-- Weijia Xiong (PhD supervisor, 09/2021 to 08/2025; Current position: Postdoc in Shenzhen, China)
+- Weijia Xiong (PhD supervisor, 09/2021 to 08/2025; Current positions: Director of Clinical Statistics & Postdoctoral Fellow, China Resources Sanjiu Medical & Pharmaceutical, Shenzhen; and Postdoctoral Research Associate, Guang'anmen Hospital, China Academy of Chinese Medical Sciences, Beijing)
 - Benjamin Young (PhD co-supervisor, 09/2021 to 05/2025; Current position: Postdoc in University of Oxford)
 - Faith Ho (PhD co-supervisor, 09/2019 to 08/2023; Current position: Department of Health, Hong Kong SAR)
 - Qichang Wan (Part-time Research Assistant, 07/2024 to 04/2025; Current position: PhD student in Georgia State University)
