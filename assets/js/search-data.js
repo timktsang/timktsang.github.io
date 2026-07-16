@@ -52,6 +52,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-published-in-nature-health-association-of-public-health-and-social-measures-with-vaccine-effectiveness",
           title: 'New paper published in Nature Health: “Association of public health and social measures...',
           description: "",
+          section: "News",},{id: "news-recruiting-phd-students-for-fall-2027-entry-and-research-assistants-on-a-rolling-basis-i-am-looking-for-a-strong-quantitative-foundation-statistics-mathematics-or-programming-and-independent-scientific-thinking-a-background-in-infectious-diseases-is-not-required-please-email-me-with-your-cv-and-academic-transcript",
+          title: 'Recruiting PhD students for Fall 2027 entry, and research assistants on a rolling...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
