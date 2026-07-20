@@ -43,6 +43,6 @@ His research interest is to develop mathematical and statistical methods for inf
 
 I am recruiting MPhil/PhD students, post-doctoral fellows and research assistants, with **PhD places available for Fall 2027 entry**.
 
-I look for a strong quantitative foundation — statistics, mathematics, or programming — and, just as importantly, independent scientific thinking and initiative. A background in infectious diseases is not required: applicants from public health, epidemiology, mathematics, physics, statistics and other quantitative fields are all welcome. Strong PhD candidates should also consider the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/), whose initial application typically closes in early December.
+I look for a strong quantitative foundation — statistics, mathematics, or programming — and, just as importantly, independent scientific thinking and initiative. A background in infectious diseases is not required: applicants from public health, epidemiology, mathematics, physics, statistics and other quantitative fields are all welcome. I am particularly keen to hear from candidates with experience in agent-based (individual-based) modeling. Strong PhD candidates should also consider the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/), whose initial application typically closes in early December.
 
 Inquiries are welcome. If you are interested in our research and in joining our group, please email me at timkltsang@gmail.com with your CV, and academic transcript.
